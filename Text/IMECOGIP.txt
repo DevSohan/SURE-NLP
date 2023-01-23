@@ -1,0 +1,858 @@
+
+There is an increasing worldwide reception of the ecosystem services (ES)-framework in 
+urban planning. Germany actively fosters Green Infrastructure(GI) utilizing ES terminology 
+on all levels of spatial planning. In China, the central government now streamlines an eco- 
+system -based approach of environmental governance accompanied by major institutional 
+reforms. Surprisingly, in both countries, there is a substantial lack of an up-to-date con- 
+ceptualization of ES. Research in the policy -science interface is needed focusing on ex- 
+plicit policy goals, inclusion of relevant stakeholders, representative and thorough data 
+coverage, and iterative development of ES toolboxes. IMECOGIP will substantially allevi- 
+ate this deficit. As a major result of the definition phase, we stated the different degrees of 
+integration of the ES concept into urban planning and- especially - into GI planning in the 
+two regional, socio -cultural and political contexts of China(Shanghai) and Germany(Ruhr 
+area). In the latter, we detected a discrepancy between the planning levels, where ES- 
+thinking has not yet inspired planning routines connected to land use and GI planning 
+(zoning plans, landscape plans, Environmental Impact Assessment, compensation mech - 
+anisms, etc.). In a joint Sino -German action, the IMECOGIP research group determined 
+8 most significant and 14 significant ES for Shanghai and the Ruhr area and graded the 
+ES supply of specific land use/land cover classes(LULC) in a qualitative manner. Further- 
+more, the group was able to compile a huge body of high quality data with a high spatial 
+resolution(< 1 m) that enable quantitative ES assessments in Shanghai and the Ruhr area. 
+During the R&D- Phase IMECOGIP will develop a user-friendly, scientifically sound and 
+spatially explicit open source toolbox to assess and evaluate ES (demand and supply), 
+synergies and trade -offs in the context of GI for different urban development scenarios; 
+The toolbox will allow for comparative evaluations of ES-conformity of different planning 
+scenarios. We will develop and test methods how GI planning can be improved by applying 
+ES principles in real word cases studies and using Big Data. The principal purpose is to 
+strengthen urban resilience. 
+To that end, we can rely on a consortium of distinguished researchers in three Chinese 
+research institutions with far-reaching relationships to provincial and local planning. The 
+IMECOGIP network is backed- up by nine cooperation agreements (MOUs). In Germany, 
+together with municipalities and the Ministry of Environment, we defined case and pilot 
+studies and research areas in the Ruhr area. Further, three renowned German consulting 
+companies, two of which are very active in urban and landscape planning all over China, 
+
+There is an increasing worldwide reception of the ecosystem services (ES)-framework in 
+urban planning. Germany actively fosters Green Infrastructure(GI) utilizing ES terminology 
+on all levels of spatial planning. In China, the central government now streamlines an eco- 
+system -based approach of environmental governance accompanied by major institutional 
+reforms. Surprisingly, in both countries, there is a substantial lack of an up-to-date con- 
+ceptualization of ES. Research in the policy -science interface is needed focusing on ex- 
+plicit policy goals, inclusion of relevant stakeholders, representative and thorough data 
+coverage, and iterative development of ES toolboxes. IMECOGIP will substantially allevi- 
+ate this deficit. As a major result of the definition phase, we stated the different degrees of 
+integration of the ES concept into urban planning and- especially - into GI planning in the 
+two regional, socio -cultural and political contexts of China(Shanghai) and Germany(Ruhr 
+area). In the latter, we detected a discrepancy between the planning levels, where ES- 
+thinking has not yet inspired planning routines connected to land use and GI planning 
+(zoning plans, landscape plans, Environmental Impact Assessment, compensation mech - 
+anisms, etc.). In a joint Sino -German action, the IMECOGIP research group determined 
+8 most significant and 14 significant ES for Shanghai and the Ruhr area and graded the 
+ES supply of specific land use/land cover classes(LULC) in a qualitative manner. Further- 
+more, the group was able to compile a huge body of high quality data with a high spatial 
+resolution(< 1 m) that enable quantitative ES assessments in Shanghai and the Ruhr area. 
+During the R&D- Phase IMECOGIP will develop a user-friendly, scientifically sound and 
+spatially explicit open source toolbox to assess and evaluate ES (demand and supply), 
+synergies and trade -offs in the context of GI for different urban development scenarios; 
+The toolbox will allow for comparative evaluations of ES-conformity of different planning 
+scenarios. We will develop and test methods how GI planning can be improved by applying 
+ES principles in real word cases studies and using Big Data. The principal purpose is to 
+strengthen urban resilience. 
+To that end, we can rely on a consortium of distinguished researchers in three Chinese 
+research institutions with far-reaching relationships to provincial and local planning. The 
+IMECOGIP network is backed- up by nine cooperation agreements (MOUs). In Germany, 
+together with municipalities and the Ministry of Environment, we defined case and pilot 
+studies and research areas in the Ruhr area. Further, three renowned German consulting 
+companies, two of which are very active in urban and landscape planning all over China, 
+
+There is an increasing worldwide reception of the ecosystem services (ES)-framework in 
+urban planning. Germany actively fosters Green Infrastructure(GI) utilizing ES terminology 
+on all levels of spatial planning. In China, the central government now streamlines an eco- 
+system -based approach of environmental governance accompanied by major institutional 
+reforms. Surprisingly, in both countries, there is a substantial lack of an up-to-date con- 
+ceptualization of ES. Research in the policy -science interface is needed focusing on ex- 
+plicit policy goals, inclusion of relevant stakeholders, representative and thorough data 
+coverage, and iterative development of ES toolboxes. IMECOGIP will substantially allevi- 
+ate this deficit. As a major result of the definition phase, we stated the different degrees of 
+integration of the ES concept into urban planning and- especially - into GI planning in the 
+two regional, socio -cultural and political contexts of China(Shanghai) and Germany(Ruhr 
+area). In the latter, we detected a discrepancy between the planning levels, where ES- 
+thinking has not yet inspired planning routines connected to land use and GI planning 
+(zoning plans, landscape plans, Environmental Impact Assessment, compensation mech - 
+anisms, etc.). In a joint Sino -German action, the IMECOGIP research group determined 
+8 most significant and 14 significant ES for Shanghai and the Ruhr area and graded the 
+ES supply of specific land use/land cover classes(LULC) in a qualitative manner. Further- 
+more, the group was able to compile a huge body of high quality data with a high spatial 
+resolution(< 1 m) that enable quantitative ES assessments in Shanghai and the Ruhr area. 
+During the R&D- Phase IMECOGIP will develop a user-friendly, scientifically sound and 
+spatially explicit open source toolbox to assess and evaluate ES (demand and supply), 
+synergies and trade -offs in the context of GI for different urban development scenarios; 
+The toolbox will allow for comparative evaluations of ES-conformity of different planning 
+scenarios. We will develop and test methods how GI planning can be improved by applying 
+ES principles in real word cases studies and using Big Data. The principal purpose is to 
+strengthen urban resilience. 
+To that end, we can rely on a consortium of distinguished researchers in three Chinese 
+research institutions with far-reaching relationships to provincial and local planning. The 
+IMECOGIP network is backed- up by nine cooperation agreements (MOUs). In Germany, 
+together with municipalities and the Ministry of Environment, we defined case and pilot 
+studies and research areas in the Ruhr area. Further, three renowned German consulting 
+companies, two of which are very active in urban and landscape planning all over China, 
+
+There is an increasing worldwide reception of the ecosystem services (ES)-framework in 
+urban planning. Germany actively fosters Green Infrastructure(GI) utilizing ES terminology 
+on all levels of spatial planning. In China, the central government now streamlines an eco- 
+system -based approach of environmental governance accompanied by major institutional 
+reforms. Surprisingly, in both countries, there is a substantial lack of an up-to-date con- 
+ceptualization of ES. Research in the policy -science interface is needed focusing on ex- 
+plicit policy goals, inclusion of relevant stakeholders, representative and thorough data 
+coverage, and iterative development of ES toolboxes. IMECOGIP will substantially allevi- 
+ate this deficit. As a major result of the definition phase, we stated the different degrees of 
+integration of the ES concept into urban planning and- especially - into GI planning in the 
+two regional, socio -cultural and political contexts of China(Shanghai) and Germany(Ruhr 
+area). In the latter, we detected a discrepancy between the planning levels, where ES- 
+thinking has not yet inspired planning routines connected to land use and GI planning 
+(zoning plans, landscape plans, Environmental Impact Assessment, compensation mech - 
+anisms, etc.). In a joint Sino -German action, the IMECOGIP research group determined 
+8 most significant and 14 significant ES for Shanghai and the Ruhr area and graded the 
+ES supply of specific land use/land cover classes(LULC) in a qualitative manner. Further- 
+more, the group was able to compile a huge body of high quality data with a high spatial 
+resolution(< 1 m) that enable quantitative ES assessments in Shanghai and the Ruhr area. 
+During the R&D- Phase IMECOGIP will develop a user-friendly, scientifically sound and 
+spatially explicit open source toolbox to assess and evaluate ES (demand and supply), 
+synergies and trade -offs in the context of GI for different urban development scenarios; 
+The toolbox will allow for comparative evaluations of ES-conformity of different planning 
+scenarios. We will develop and test methods how GI planning can be improved by applying 
+ES principles in real word cases studies and using Big Data. The principal purpose is to 
+strengthen urban resilience. 
+To that end, we can rely on a consortium of distinguished researchers in three Chinese 
+research institutions with far-reaching relationships to provincial and local planning. The 
+IMECOGIP network is backed- up by nine cooperation agreements (MOUs). In Germany, 
+together with municipalities and the Ministry of Environment, we defined case and pilot 
+studies and research areas in the Ruhr area. Further, three renowned German consulting 
+companies, two of which are very active in urban and landscape planning all over China, 
+
+There is an increasing worldwide reception of the ecosystem services (ES)-framework in 
+urban planning. Germany actively fosters Green Infrastructure(GI) utilizing ES terminology 
+on all levels of spatial planning. In China, the central government now streamlines an eco- 
+system -based approach of environmental governance accompanied by major institutional 
+reforms. Surprisingly, in both countries, there is a substantial lack of an up-to-date con- 
+ceptualization of ES. Research in the policy -science interface is needed focusing on ex- 
+plicit policy goals, inclusion of relevant stakeholders, representative and thorough data 
+coverage, and iterative development of ES toolboxes. IMECOGIP will substantially allevi- 
+ate this deficit. As a major result of the definition phase, we stated the different degrees of 
+integration of the ES concept into urban planning and- especially - into GI planning in the 
+two regional, socio -cultural and political contexts of China(Shanghai) and Germany(Ruhr 
+area). In the latter, we detected a discrepancy between the planning levels, where ES- 
+thinking has not yet inspired planning routines connected to land use and GI planning 
+(zoning plans, landscape plans, Environmental Impact Assessment, compensation mech - 
+anisms, etc.). In a joint Sino -German action, the IMECOGIP research group determined 
+8 most significant and 14 significant ES for Shanghai and the Ruhr area and graded the 
+ES supply of specific land use/land cover classes(LULC) in a qualitative manner. Further- 
+more, the group was able to compile a huge body of high quality data with a high spatial 
+resolution(< 1 m) that enable quantitative ES assessments in Shanghai and the Ruhr area. 
+During the R&D- Phase IMECOGIP will develop a user-friendly, scientifically sound and 
+spatially explicit open source toolbox to assess and evaluate ES (demand and supply), 
+synergies and trade -offs in the context of GI for different urban development scenarios; 
+The toolbox will allow for comparative evaluations of ES-conformity of different planning 
+scenarios. We will develop and test methods how GI planning can be improved by applying 
+ES principles in real word cases studies and using Big Data. The principal purpose is to 
+strengthen urban resilience. 
+To that end, we can rely on a consortium of distinguished researchers in three Chinese 
+research institutions with far-reaching relationships to provincial and local planning. The 
+IMECOGIP network is backed- up by nine cooperation agreements (MOUs). In Germany, 
+together with municipalities and the Ministry of Environment, we defined case and pilot 
+studies and research areas in the Ruhr area. Further, three renowned German consulting 
+companies, two of which are very active in urban and landscape planning all over China, 
+
+There is an increasing worldwide reception of the ecosystem services (ES)-framework in 
+urban planning. Germany actively fosters Green Infrastructure(GI) utilizing ES terminology 
+on all levels of spatial planning. In China, the central government now streamlines an eco- 
+system -based approach of environmental governance accompanied by major institutional 
+reforms. Surprisingly, in both countries, there is a substantial lack of an up-to-date con- 
+ceptualization of ES. Research in the policy -science interface is needed focusing on ex- 
+plicit policy goals, inclusion of relevant stakeholders, representative and thorough data 
+coverage, and iterative development of ES toolboxes. IMECOGIP will substantially allevi- 
+ate this deficit. As a major result of the definition phase, we stated the different degrees of 
+integration of the ES concept into urban planning and- especially - into GI planning in the 
+two regional, socio -cultural and political contexts of China(Shanghai) and Germany(Ruhr 
+area). In the latter, we detected a discrepancy between the planning levels, where ES- 
+thinking has not yet inspired planning routines connected to land use and GI planning 
+(zoning plans, landscape plans, Environmental Impact Assessment, compensation mech - 
+anisms, etc.). In a joint Sino -German action, the IMECOGIP research group determined 
+8 most significant and 14 significant ES for Shanghai and the Ruhr area and graded the 
+ES supply of specific land use/land cover classes(LULC) in a qualitative manner. Further- 
+more, the group was able to compile a huge body of high quality data with a high spatial 
+resolution(< 1 m) that enable quantitative ES assessments in Shanghai and the Ruhr area. 
+During the R&D- Phase IMECOGIP will develop a user-friendly, scientifically sound and 
+spatially explicit open source toolbox to assess and evaluate ES (demand and supply), 
+synergies and trade -offs in the context of GI for different urban development scenarios; 
+The toolbox will allow for comparative evaluations of ES-conformity of different planning 
+scenarios. We will develop and test methods how GI planning can be improved by applying 
+ES principles in real word cases studies and using Big Data. The principal purpose is to 
+strengthen urban resilience. 
+To that end, we can rely on a consortium of distinguished researchers in three Chinese 
+research institutions with far-reaching relationships to provincial and local planning. The 
+IMECOGIP network is backed- up by nine cooperation agreements (MOUs). In Germany, 
+together with municipalities and the Ministry of Environment, we defined case and pilot 
+studies and research areas in the Ruhr area. Further, three renowned German consulting 
+companies, two of which are very active in urban and landscape planning all over China, 
+
+There is an increasing worldwide reception of the ecosystem services (ES)-framework in 
+urban planning. Germany actively fosters Green Infrastructure(GI) utilizing ES terminology 
+on all levels of spatial planning. In China, the central government now streamlines an eco- 
+system -based approach of environmental governance accompanied by major institutional 
+reforms. Surprisingly, in both countries, there is a substantial lack of an up-to-date con- 
+ceptualization of ES. Research in the policy -science interface is needed focusing on ex- 
+plicit policy goals, inclusion of relevant stakeholders, representative and thorough data 
+coverage, and iterative development of ES toolboxes. IMECOGIP will substantially allevi- 
+ate this deficit. As a major result of the definition phase, we stated the different degrees of 
+integration of the ES concept into urban planning and- especially - into GI planning in the 
+two regional, socio -cultural and political contexts of China(Shanghai) and Germany(Ruhr 
+area). In the latter, we detected a discrepancy between the planning levels, where ES- 
+thinking has not yet inspired planning routines connected to land use and GI planning 
+(zoning plans, landscape plans, Environmental Impact Assessment, compensation mech - 
+anisms, etc.). In a joint Sino -German action, the IMECOGIP research group determined 
+8 most significant and 14 significant ES for Shanghai and the Ruhr area and graded the 
+ES supply of specific land use/land cover classes(LULC) in a qualitative manner. Further- 
+more, the group was able to compile a huge body of high quality data with a high spatial 
+resolution(< 1 m) that enable quantitative ES assessments in Shanghai and the Ruhr area. 
+During the R&D- Phase IMECOGIP will develop a user-friendly, scientifically sound and 
+spatially explicit open source toolbox to assess and evaluate ES (demand and supply), 
+synergies and trade -offs in the context of GI for different urban development scenarios; 
+The toolbox will allow for comparative evaluations of ES-conformity of different planning 
+scenarios. We will develop and test methods how GI planning can be improved by applying 
+ES principles in real word cases studies and using Big Data. The principal purpose is to 
+strengthen urban resilience. 
+To that end, we can rely on a consortium of distinguished researchers in three Chinese 
+research institutions with far-reaching relationships to provincial and local planning. The 
+IMECOGIP network is backed- up by nine cooperation agreements (MOUs). In Germany, 
+together with municipalities and the Ministry of Environment, we defined case and pilot 
+studies and research areas in the Ruhr area. Further, three renowned German consulting 
+companies, two of which are very active in urban and landscape planning all over China, 
+
+There is an increasing worldwide reception of the ecosystem services (ES)-framework in 
+urban planning. Germany actively fosters Green Infrastructure(GI) utilizing ES terminology 
+on all levels of spatial planning. In China, the central government now streamlines an eco- 
+system -based approach of environmental governance accompanied by major institutional 
+reforms. Surprisingly, in both countries, there is a substantial lack of an up-to-date con- 
+ceptualization of ES. Research in the policy -science interface is needed focusing on ex- 
+plicit policy goals, inclusion of relevant stakeholders, representative and thorough data 
+coverage, and iterative development of ES toolboxes. IMECOGIP will substantially allevi- 
+ate this deficit. As a major result of the definition phase, we stated the different degrees of 
+integration of the ES concept into urban planning and- especially - into GI planning in the 
+two regional, socio -cultural and political contexts of China(Shanghai) and Germany(Ruhr 
+area). In the latter, we detected a discrepancy between the planning levels, where ES- 
+thinking has not yet inspired planning routines connected to land use and GI planning 
+(zoning plans, landscape plans, Environmental Impact Assessment, compensation mech - 
+anisms, etc.). In a joint Sino -German action, the IMECOGIP research group determined 
+8 most significant and 14 significant ES for Shanghai and the Ruhr area and graded the 
+ES supply of specific land use/land cover classes(LULC) in a qualitative manner. Further- 
+more, the group was able to compile a huge body of high quality data with a high spatial 
+resolution(< 1 m) that enable quantitative ES assessments in Shanghai and the Ruhr area. 
+During the R&D- Phase IMECOGIP will develop a user-friendly, scientifically sound and 
+spatially explicit open source toolbox to assess and evaluate ES (demand and supply), 
+synergies and trade -offs in the context of GI for different urban development scenarios; 
+The toolbox will allow for comparative evaluations of ES-conformity of different planning 
+scenarios. We will develop and test methods how GI planning can be improved by applying 
+ES principles in real word cases studies and using Big Data. The principal purpose is to 
+strengthen urban resilience. 
+To that end, we can rely on a consortium of distinguished researchers in three Chinese 
+research institutions with far-reaching relationships to provincial and local planning. The 
+IMECOGIP network is backed- up by nine cooperation agreements (MOUs). In Germany, 
+together with municipalities and the Ministry of Environment, we defined case and pilot 
+studies and research areas in the Ruhr area. Further, three renowned German consulting 
+companies, two of which are very active in urban and landscape planning all over China, 
+
+There is an increasing worldwide reception of the ecosystem services (ES)-framework in 
+urban planning. Germany actively fosters Green Infrastructure(GI) utilizing ES terminology 
+on all levels of spatial planning. In China, the central government now streamlines an eco- 
+system -based approach of environmental governance accompanied by major institutional 
+reforms. Surprisingly, in both countries, there is a substantial lack of an up-to-date con- 
+ceptualization of ES. Research in the policy -science interface is needed focusing on ex- 
+plicit policy goals, inclusion of relevant stakeholders, representative and thorough data 
+coverage, and iterative development of ES toolboxes. IMECOGIP will substantially allevi- 
+ate this deficit. As a major result of the definition phase, we stated the different degrees of 
+integration of the ES concept into urban planning and- especially - into GI planning in the 
+two regional, socio -cultural and political contexts of China(Shanghai) and Germany(Ruhr 
+area). In the latter, we detected a discrepancy between the planning levels, where ES- 
+thinking has not yet inspired planning routines connected to land use and GI planning 
+(zoning plans, landscape plans, Environmental Impact Assessment, compensation mech - 
+anisms, etc.). In a joint Sino -German action, the IMECOGIP research group determined 
+8 most significant and 14 significant ES for Shanghai and the Ruhr area and graded the 
+ES supply of specific land use/land cover classes(LULC) in a qualitative manner. Further- 
+more, the group was able to compile a huge body of high quality data with a high spatial 
+resolution(< 1 m) that enable quantitative ES assessments in Shanghai and the Ruhr area. 
+During the R&D- Phase IMECOGIP will develop a user-friendly, scientifically sound and 
+spatially explicit open source toolbox to assess and evaluate ES (demand and supply), 
+synergies and trade -offs in the context of GI for different urban development scenarios; 
+The toolbox will allow for comparative evaluations of ES-conformity of different planning 
+scenarios. We will develop and test methods how GI planning can be improved by applying 
+ES principles in real word cases studies and using Big Data. The principal purpose is to 
+strengthen urban resilience. 
+To that end, we can rely on a consortium of distinguished researchers in three Chinese 
+research institutions with far-reaching relationships to provincial and local planning. The 
+IMECOGIP network is backed- up by nine cooperation agreements (MOUs). In Germany, 
+together with municipalities and the Ministry of Environment, we defined case and pilot 
+studies and research areas in the Ruhr area. Further, three renowned German consulting 
+companies, two of which are very active in urban and landscape planning all over China, 
+
+There is an increasing worldwide reception of the ecosystem services (ES)-framework in 
+urban planning. Germany actively fosters Green Infrastructure(GI) utilizing ES terminology 
+on all levels of spatial planning. In China, the central government now streamlines an eco- 
+system -based approach of environmental governance accompanied by major institutional 
+reforms. Surprisingly, in both countries, there is a substantial lack of an up-to-date con- 
+ceptualization of ES. Research in the policy -science interface is needed focusing on ex- 
+plicit policy goals, inclusion of relevant stakeholders, representative and thorough data 
+coverage, and iterative development of ES toolboxes. IMECOGIP will substantially allevi- 
+ate this deficit. As a major result of the definition phase, we stated the different degrees of 
+integration of the ES concept into urban planning and- especially - into GI planning in the 
+two regional, socio -cultural and political contexts of China(Shanghai) and Germany(Ruhr 
+area). In the latter, we detected a discrepancy between the planning levels, where ES- 
+thinking has not yet inspired planning routines connected to land use and GI planning 
+(zoning plans, landscape plans, Environmental Impact Assessment, compensation mech - 
+anisms, etc.). In a joint Sino -German action, the IMECOGIP research group determined 
+8 most significant and 14 significant ES for Shanghai and the Ruhr area and graded the 
+ES supply of specific land use/land cover classes(LULC) in a qualitative manner. Further- 
+more, the group was able to compile a huge body of high quality data with a high spatial 
+resolution(< 1 m) that enable quantitative ES assessments in Shanghai and the Ruhr area. 
+During the R&D- Phase IMECOGIP will develop a user-friendly, scientifically sound and 
+spatially explicit open source toolbox to assess and evaluate ES (demand and supply), 
+synergies and trade -offs in the context of GI for different urban development scenarios; 
+The toolbox will allow for comparative evaluations of ES-conformity of different planning 
+scenarios. We will develop and test methods how GI planning can be improved by applying 
+ES principles in real word cases studies and using Big Data. The principal purpose is to 
+strengthen urban resilience. 
+To that end, we can rely on a consortium of distinguished researchers in three Chinese 
+research institutions with far-reaching relationships to provincial and local planning. The 
+IMECOGIP network is backed- up by nine cooperation agreements (MOUs). In Germany, 
+together with municipalities and the Ministry of Environment, we defined case and pilot 
+studies and research areas in the Ruhr area. Further, three renowned German consulting 
+companies, two of which are very active in urban and landscape planning all over China, 
+
+There is an increasing worldwide reception of the ecosystem services (ES)-framework in 
+urban planning. Germany actively fosters Green Infrastructure(GI) utilizing ES terminology 
+on all levels of spatial planning. In China, the central government now streamlines an eco- 
+system -based approach of environmental governance accompanied by major institutional 
+reforms. Surprisingly, in both countries, there is a substantial lack of an up-to-date con- 
+ceptualization of ES. Research in the policy -science interface is needed focusing on ex- 
+plicit policy goals, inclusion of relevant stakeholders, representative and thorough data 
+coverage, and iterative development of ES toolboxes. IMECOGIP will substantially allevi- 
+ate this deficit. As a major result of the definition phase, we stated the different degrees of 
+integration of the ES concept into urban planning and- especially - into GI planning in the 
+two regional, socio -cultural and political contexts of China(Shanghai) and Germany(Ruhr 
+area). In the latter, we detected a discrepancy between the planning levels, where ES- 
+thinking has not yet inspired planning routines connected to land use and GI planning 
+(zoning plans, landscape plans, Environmental Impact Assessment, compensation mech - 
+anisms, etc.). In a joint Sino -German action, the IMECOGIP research group determined 
+8 most significant and 14 significant ES for Shanghai and the Ruhr area and graded the 
+ES supply of specific land use/land cover classes(LULC) in a qualitative manner. Further- 
+more, the group was able to compile a huge body of high quality data with a high spatial 
+resolution(< 1 m) that enable quantitative ES assessments in Shanghai and the Ruhr area. 
+During the R&D- Phase IMECOGIP will develop a user-friendly, scientifically sound and 
+spatially explicit open source toolbox to assess and evaluate ES (demand and supply), 
+synergies and trade -offs in the context of GI for different urban development scenarios; 
+The toolbox will allow for comparative evaluations of ES-conformity of different planning 
+scenarios. We will develop and test methods how GI planning can be improved by applying 
+ES principles in real word cases studies and using Big Data. The principal purpose is to 
+strengthen urban resilience. 
+To that end, we can rely on a consortium of distinguished researchers in three Chinese 
+research institutions with far-reaching relationships to provincial and local planning. The 
+IMECOGIP network is backed- up by nine cooperation agreements (MOUs). In Germany, 
+together with municipalities and the Ministry of Environment, we defined case and pilot 
+studies and research areas in the Ruhr area. Further, three renowned German consulting 
+companies, two of which are very active in urban and landscape planning all over China, 
+
+There is an increasing worldwide reception of the ecosystem services (ES)-framework in 
+urban planning. Germany actively fosters Green Infrastructure(GI) utilizing ES terminology 
+on all levels of spatial planning. In China, the central government now streamlines an eco- 
+system -based approach of environmental governance accompanied by major institutional 
+reforms. Surprisingly, in both countries, there is a substantial lack of an up-to-date con- 
+ceptualization of ES. Research in the policy -science interface is needed focusing on ex- 
+plicit policy goals, inclusion of relevant stakeholders, representative and thorough data 
+coverage, and iterative development of ES toolboxes. IMECOGIP will substantially allevi- 
+ate this deficit. As a major result of the definition phase, we stated the different degrees of 
+integration of the ES concept into urban planning and- especially - into GI planning in the 
+two regional, socio -cultural and political contexts of China(Shanghai) and Germany(Ruhr 
+area). In the latter, we detected a discrepancy between the planning levels, where ES- 
+thinking has not yet inspired planning routines connected to land use and GI planning 
+(zoning plans, landscape plans, Environmental Impact Assessment, compensation mech - 
+anisms, etc.). In a joint Sino -German action, the IMECOGIP research group determined 
+8 most significant and 14 significant ES for Shanghai and the Ruhr area and graded the 
+ES supply of specific land use/land cover classes(LULC) in a qualitative manner. Further- 
+more, the group was able to compile a huge body of high quality data with a high spatial 
+resolution(< 1 m) that enable quantitative ES assessments in Shanghai and the Ruhr area. 
+During the R&D- Phase IMECOGIP will develop a user-friendly, scientifically sound and 
+spatially explicit open source toolbox to assess and evaluate ES (demand and supply), 
+synergies and trade -offs in the context of GI for different urban development scenarios; 
+The toolbox will allow for comparative evaluations of ES-conformity of different planning 
+scenarios. We will develop and test methods how GI planning can be improved by applying 
+ES principles in real word cases studies and using Big Data. The principal purpose is to 
+strengthen urban resilience. 
+To that end, we can rely on a consortium of distinguished researchers in three Chinese 
+research institutions with far-reaching relationships to provincial and local planning. The 
+IMECOGIP network is backed- up by nine cooperation agreements (MOUs). In Germany, 
+together with municipalities and the Ministry of Environment, we defined case and pilot 
+studies and research areas in the Ruhr area. Further, three renowned German consulting 
+companies, two of which are very active in urban and landscape planning all over China, 
+
+There is an increasing worldwide reception of the ecosystem services (ES)-framework in 
+urban planning. Germany actively fosters Green Infrastructure(GI) utilizing ES terminology 
+on all levels of spatial planning. In China, the central government now streamlines an eco- 
+system -based approach of environmental governance accompanied by major institutional 
+reforms. Surprisingly, in both countries, there is a substantial lack of an up-to-date con- 
+ceptualization of ES. Research in the policy -science interface is needed focusing on ex- 
+plicit policy goals, inclusion of relevant stakeholders, representative and thorough data 
+coverage, and iterative development of ES toolboxes. IMECOGIP will substantially allevi- 
+ate this deficit. As a major result of the definition phase, we stated the different degrees of 
+integration of the ES concept into urban planning and- especially - into GI planning in the 
+two regional, socio -cultural and political contexts of China(Shanghai) and Germany(Ruhr 
+area). In the latter, we detected a discrepancy between the planning levels, where ES- 
+thinking has not yet inspired planning routines connected to land use and GI planning 
+(zoning plans, landscape plans, Environmental Impact Assessment, compensation mech - 
+anisms, etc.). In a joint Sino -German action, the IMECOGIP research group determined 
+8 most significant and 14 significant ES for Shanghai and the Ruhr area and graded the 
+ES supply of specific land use/land cover classes(LULC) in a qualitative manner. Further- 
+more, the group was able to compile a huge body of high quality data with a high spatial 
+resolution(< 1 m) that enable quantitative ES assessments in Shanghai and the Ruhr area. 
+During the R&D- Phase IMECOGIP will develop a user-friendly, scientifically sound and 
+spatially explicit open source toolbox to assess and evaluate ES (demand and supply), 
+synergies and trade -offs in the context of GI for different urban development scenarios; 
+The toolbox will allow for comparative evaluations of ES-conformity of different planning 
+scenarios. We will develop and test methods how GI planning can be improved by applying 
+ES principles in real word cases studies and using Big Data. The principal purpose is to 
+strengthen urban resilience. 
+To that end, we can rely on a consortium of distinguished researchers in three Chinese 
+research institutions with far-reaching relationships to provincial and local planning. The 
+IMECOGIP network is backed- up by nine cooperation agreements (MOUs). In Germany, 
+together with municipalities and the Ministry of Environment, we defined case and pilot 
+studies and research areas in the Ruhr area. Further, three renowned German consulting 
+companies, two of which are very active in urban and landscape planning all over China, 
+
+There is an increasing worldwide reception of the ecosystem services (ES)-framework in 
+urban planning. Germany actively fosters Green Infrastructure(GI) utilizing ES terminology 
+on all levels of spatial planning. In China, the central government now streamlines an eco- 
+system -based approach of environmental governance accompanied by major institutional 
+reforms. Surprisingly, in both countries, there is a substantial lack of an up-to-date con- 
+ceptualization of ES. Research in the policy -science interface is needed focusing on ex- 
+plicit policy goals, inclusion of relevant stakeholders, representative and thorough data 
+coverage, and iterative development of ES toolboxes. IMECOGIP will substantially allevi- 
+ate this deficit. As a major result of the definition phase, we stated the different degrees of 
+integration of the ES concept into urban planning and- especially - into GI planning in the 
+two regional, socio -cultural and political contexts of China(Shanghai) and Germany(Ruhr 
+area). In the latter, we detected a discrepancy between the planning levels, where ES- 
+thinking has not yet inspired planning routines connected to land use and GI planning 
+(zoning plans, landscape plans, Environmental Impact Assessment, compensation mech - 
+anisms, etc.). In a joint Sino -German action, the IMECOGIP research group determined 
+8 most significant and 14 significant ES for Shanghai and the Ruhr area and graded the 
+ES supply of specific land use/land cover classes(LULC) in a qualitative manner. Further- 
+more, the group was able to compile a huge body of high quality data with a high spatial 
+resolution(< 1 m) that enable quantitative ES assessments in Shanghai and the Ruhr area. 
+During the R&D- Phase IMECOGIP will develop a user-friendly, scientifically sound and 
+spatially explicit open source toolbox to assess and evaluate ES (demand and supply), 
+synergies and trade -offs in the context of GI for different urban development scenarios; 
+The toolbox will allow for comparative evaluations of ES-conformity of different planning 
+scenarios. We will develop and test methods how GI planning can be improved by applying 
+ES principles in real word cases studies and using Big Data. The principal purpose is to 
+strengthen urban resilience. 
+To that end, we can rely on a consortium of distinguished researchers in three Chinese 
+research institutions with far-reaching relationships to provincial and local planning. The 
+IMECOGIP network is backed- up by nine cooperation agreements (MOUs). In Germany, 
+together with municipalities and the Ministry of Environment, we defined case and pilot 
+studies and research areas in the Ruhr area. Further, three renowned German consulting 
+companies, two of which are very active in urban and landscape planning all over China, 
+
+There is an increasing worldwide reception of the ecosystem services (ES)-framework in 
+urban planning. Germany actively fosters Green Infrastructure(GI) utilizing ES terminology 
+on all levels of spatial planning. In China, the central government now streamlines an eco- 
+system -based approach of environmental governance accompanied by major institutional 
+reforms. Surprisingly, in both countries, there is a substantial lack of an up-to-date con- 
+ceptualization of ES. Research in the policy -science interface is needed focusing on ex- 
+plicit policy goals, inclusion of relevant stakeholders, representative and thorough data 
+coverage, and iterative development of ES toolboxes. IMECOGIP will substantially allevi- 
+ate this deficit. As a major result of the definition phase, we stated the different degrees of 
+integration of the ES concept into urban planning and- especially - into GI planning in the 
+two regional, socio -cultural and political contexts of China(Shanghai) and Germany(Ruhr 
+area). In the latter, we detected a discrepancy between the planning levels, where ES- 
+thinking has not yet inspired planning routines connected to land use and GI planning 
+(zoning plans, landscape plans, Environmental Impact Assessment, compensation mech - 
+anisms, etc.). In a joint Sino -German action, the IMECOGIP research group determined 
+8 most significant and 14 significant ES for Shanghai and the Ruhr area and graded the 
+ES supply of specific land use/land cover classes(LULC) in a qualitative manner. Further- 
+more, the group was able to compile a huge body of high quality data with a high spatial 
+resolution(< 1 m) that enable quantitative ES assessments in Shanghai and the Ruhr area. 
+During the R&D- Phase IMECOGIP will develop a user-friendly, scientifically sound and 
+spatially explicit open source toolbox to assess and evaluate ES (demand and supply), 
+synergies and trade -offs in the context of GI for different urban development scenarios; 
+The toolbox will allow for comparative evaluations of ES-conformity of different planning 
+scenarios. We will develop and test methods how GI planning can be improved by applying 
+ES principles in real word cases studies and using Big Data. The principal purpose is to 
+strengthen urban resilience. 
+To that end, we can rely on a consortium of distinguished researchers in three Chinese 
+research institutions with far-reaching relationships to provincial and local planning. The 
+IMECOGIP network is backed- up by nine cooperation agreements (MOUs). In Germany, 
+together with municipalities and the Ministry of Environment, we defined case and pilot 
+studies and research areas in the Ruhr area. Further, three renowned German consulting 
+companies, two of which are very active in urban and landscape planning all over China, 
+
+There is an increasing worldwide reception of the ecosystem services (ES)-framework in 
+urban planning. Germany actively fosters Green Infrastructure(GI) utilizing ES terminology 
+on all levels of spatial planning. In China, the central government now streamlines an eco- 
+system -based approach of environmental governance accompanied by major institutional 
+reforms. Surprisingly, in both countries, there is a substantial lack of an up-to-date con- 
+ceptualization of ES. Research in the policy -science interface is needed focusing on ex- 
+plicit policy goals, inclusion of relevant stakeholders, representative and thorough data 
+coverage, and iterative development of ES toolboxes. IMECOGIP will substantially allevi- 
+ate this deficit. As a major result of the definition phase, we stated the different degrees of 
+integration of the ES concept into urban planning and- especially - into GI planning in the 
+two regional, socio -cultural and political contexts of China(Shanghai) and Germany(Ruhr 
+area). In the latter, we detected a discrepancy between the planning levels, where ES- 
+thinking has not yet inspired planning routines connected to land use and GI planning 
+(zoning plans, landscape plans, Environmental Impact Assessment, compensation mech - 
+anisms, etc.). In a joint Sino -German action, the IMECOGIP research group determined 
+8 most significant and 14 significant ES for Shanghai and the Ruhr area and graded the 
+ES supply of specific land use/land cover classes(LULC) in a qualitative manner. Further- 
+more, the group was able to compile a huge body of high quality data with a high spatial 
+resolution(< 1 m) that enable quantitative ES assessments in Shanghai and the Ruhr area. 
+During the R&D- Phase IMECOGIP will develop a user-friendly, scientifically sound and 
+spatially explicit open source toolbox to assess and evaluate ES (demand and supply), 
+synergies and trade -offs in the context of GI for different urban development scenarios; 
+The toolbox will allow for comparative evaluations of ES-conformity of different planning 
+scenarios. We will develop and test methods how GI planning can be improved by applying 
+ES principles in real word cases studies and using Big Data. The principal purpose is to 
+strengthen urban resilience. 
+To that end, we can rely on a consortium of distinguished researchers in three Chinese 
+research institutions with far-reaching relationships to provincial and local planning. The 
+IMECOGIP network is backed- up by nine cooperation agreements (MOUs). In Germany, 
+together with municipalities and the Ministry of Environment, we defined case and pilot 
+studies and research areas in the Ruhr area. Further, three renowned German consulting 
+companies, two of which are very active in urban and landscape planning all over China, 
+
+There is an increasing worldwide reception of the ecosystem services (ES)-framework in 
+urban planning. Germany actively fosters Green Infrastructure(GI) utilizing ES terminology 
+on all levels of spatial planning. In China, the central government now streamlines an eco- 
+system -based approach of environmental governance accompanied by major institutional 
+reforms. Surprisingly, in both countries, there is a substantial lack of an up-to-date con- 
+ceptualization of ES. Research in the policy -science interface is needed focusing on ex- 
+plicit policy goals, inclusion of relevant stakeholders, representative and thorough data 
+coverage, and iterative development of ES toolboxes. IMECOGIP will substantially allevi- 
+ate this deficit. As a major result of the definition phase, we stated the different degrees of 
+integration of the ES concept into urban planning and- especially - into GI planning in the 
+two regional, socio -cultural and political contexts of China(Shanghai) and Germany(Ruhr 
+area). In the latter, we detected a discrepancy between the planning levels, where ES- 
+thinking has not yet inspired planning routines connected to land use and GI planning 
+(zoning plans, landscape plans, Environmental Impact Assessment, compensation mech - 
+anisms, etc.). In a joint Sino -German action, the IMECOGIP research group determined 
+8 most significant and 14 significant ES for Shanghai and the Ruhr area and graded the 
+ES supply of specific land use/land cover classes(LULC) in a qualitative manner. Further- 
+more, the group was able to compile a huge body of high quality data with a high spatial 
+resolution(< 1 m) that enable quantitative ES assessments in Shanghai and the Ruhr area. 
+During the R&D- Phase IMECOGIP will develop a user-friendly, scientifically sound and 
+spatially explicit open source toolbox to assess and evaluate ES (demand and supply), 
+synergies and trade -offs in the context of GI for different urban development scenarios; 
+The toolbox will allow for comparative evaluations of ES-conformity of different planning 
+scenarios. We will develop and test methods how GI planning can be improved by applying 
+ES principles in real word cases studies and using Big Data. The principal purpose is to 
+strengthen urban resilience. 
+To that end, we can rely on a consortium of distinguished researchers in three Chinese 
+research institutions with far-reaching relationships to provincial and local planning. The 
+IMECOGIP network is backed- up by nine cooperation agreements (MOUs). In Germany, 
+together with municipalities and the Ministry of Environment, we defined case and pilot 
+studies and research areas in the Ruhr area. Further, three renowned German consulting 
+companies, two of which are very active in urban and landscape planning all over China, 
+
+There is an increasing worldwide reception of the ecosystem services (ES)-framework in 
+urban planning. Germany actively fosters Green Infrastructure(GI) utilizing ES terminology 
+on all levels of spatial planning. In China, the central government now streamlines an eco- 
+system -based approach of environmental governance accompanied by major institutional 
+reforms. Surprisingly, in both countries, there is a substantial lack of an up-to-date con- 
+ceptualization of ES. Research in the policy -science interface is needed focusing on ex- 
+plicit policy goals, inclusion of relevant stakeholders, representative and thorough data 
+coverage, and iterative development of ES toolboxes. IMECOGIP will substantially allevi- 
+ate this deficit. As a major result of the definition phase, we stated the different degrees of 
+integration of the ES concept into urban planning and- especially - into GI planning in the 
+two regional, socio -cultural and political contexts of China(Shanghai) and Germany(Ruhr 
+area). In the latter, we detected a discrepancy between the planning levels, where ES- 
+thinking has not yet inspired planning routines connected to land use and GI planning 
+(zoning plans, landscape plans, Environmental Impact Assessment, compensation mech - 
+anisms, etc.). In a joint Sino -German action, the IMECOGIP research group determined 
+8 most significant and 14 significant ES for Shanghai and the Ruhr area and graded the 
+ES supply of specific land use/land cover classes(LULC) in a qualitative manner. Further- 
+more, the group was able to compile a huge body of high quality data with a high spatial 
+resolution(< 1 m) that enable quantitative ES assessments in Shanghai and the Ruhr area. 
+During the R&D- Phase IMECOGIP will develop a user-friendly, scientifically sound and 
+spatially explicit open source toolbox to assess and evaluate ES (demand and supply), 
+synergies and trade -offs in the context of GI for different urban development scenarios; 
+The toolbox will allow for comparative evaluations of ES-conformity of different planning 
+scenarios. We will develop and test methods how GI planning can be improved by applying 
+ES principles in real word cases studies and using Big Data. The principal purpose is to 
+strengthen urban resilience. 
+To that end, we can rely on a consortium of distinguished researchers in three Chinese 
+research institutions with far-reaching relationships to provincial and local planning. The 
+IMECOGIP network is backed- up by nine cooperation agreements (MOUs). In Germany, 
+together with municipalities and the Ministry of Environment, we defined case and pilot 
+studies and research areas in the Ruhr area. Further, three renowned German consulting 
+companies, two of which are very active in urban and landscape planning all over China, 
+
+There is an increasing worldwide reception of the ecosystem services (ES)-framework in 
+urban planning. Germany actively fosters Green Infrastructure(GI) utilizing ES terminology 
+on all levels of spatial planning. In China, the central government now streamlines an eco- 
+system -based approach of environmental governance accompanied by major institutional 
+reforms. Surprisingly, in both countries, there is a substantial lack of an up-to-date con- 
+ceptualization of ES. Research in the policy -science interface is needed focusing on ex- 
+plicit policy goals, inclusion of relevant stakeholders, representative and thorough data 
+coverage, and iterative development of ES toolboxes. IMECOGIP will substantially allevi- 
+ate this deficit. As a major result of the definition phase, we stated the different degrees of 
+integration of the ES concept into urban planning and- especially - into GI planning in the 
+two regional, socio -cultural and political contexts of China(Shanghai) and Germany(Ruhr 
+area). In the latter, we detected a discrepancy between the planning levels, where ES- 
+thinking has not yet inspired planning routines connected to land use and GI planning 
+(zoning plans, landscape plans, Environmental Impact Assessment, compensation mech - 
+anisms, etc.). In a joint Sino -German action, the IMECOGIP research group determined 
+8 most significant and 14 significant ES for Shanghai and the Ruhr area and graded the 
+ES supply of specific land use/land cover classes(LULC) in a qualitative manner. Further- 
+more, the group was able to compile a huge body of high quality data with a high spatial 
+resolution(< 1 m) that enable quantitative ES assessments in Shanghai and the Ruhr area. 
+During the R&D- Phase IMECOGIP will develop a user-friendly, scientifically sound and 
+spatially explicit open source toolbox to assess and evaluate ES (demand and supply), 
+synergies and trade -offs in the context of GI for different urban development scenarios; 
+The toolbox will allow for comparative evaluations of ES-conformity of different planning 
+scenarios. We will develop and test methods how GI planning can be improved by applying 
+ES principles in real word cases studies and using Big Data. The principal purpose is to 
+strengthen urban resilience. 
+To that end, we can rely on a consortium of distinguished researchers in three Chinese 
+research institutions with far-reaching relationships to provincial and local planning. The 
+IMECOGIP network is backed- up by nine cooperation agreements (MOUs). In Germany, 
+together with municipalities and the Ministry of Environment, we defined case and pilot 
+studies and research areas in the Ruhr area. Further, three renowned German consulting 
+companies, two of which are very active in urban and landscape planning all over China, 
+
+There is an increasing worldwide reception of the ecosystem services (ES)-framework in 
+urban planning. Germany actively fosters Green Infrastructure(GI) utilizing ES terminology 
+on all levels of spatial planning. In China, the central government now streamlines an eco- 
+system -based approach of environmental governance accompanied by major institutional 
+reforms. Surprisingly, in both countries, there is a substantial lack of an up-to-date con- 
+ceptualization of ES. Research in the policy -science interface is needed focusing on ex- 
+plicit policy goals, inclusion of relevant stakeholders, representative and thorough data 
+coverage, and iterative development of ES toolboxes. IMECOGIP will substantially allevi- 
+ate this deficit. As a major result of the definition phase, we stated the different degrees of 
+integration of the ES concept into urban planning and- especially - into GI planning in the 
+two regional, socio -cultural and political contexts of China(Shanghai) and Germany(Ruhr 
+area). In the latter, we detected a discrepancy between the planning levels, where ES- 
+thinking has not yet inspired planning routines connected to land use and GI planning 
+(zoning plans, landscape plans, Environmental Impact Assessment, compensation mech - 
+anisms, etc.). In a joint Sino -German action, the IMECOGIP research group determined 
+8 most significant and 14 significant ES for Shanghai and the Ruhr area and graded the 
+ES supply of specific land use/land cover classes(LULC) in a qualitative manner. Further- 
+more, the group was able to compile a huge body of high quality data with a high spatial 
+resolution(< 1 m) that enable quantitative ES assessments in Shanghai and the Ruhr area. 
+During the R&D- Phase IMECOGIP will develop a user-friendly, scientifically sound and 
+spatially explicit open source toolbox to assess and evaluate ES (demand and supply), 
+synergies and trade -offs in the context of GI for different urban development scenarios; 
+The toolbox will allow for comparative evaluations of ES-conformity of different planning 
+scenarios. We will develop and test methods how GI planning can be improved by applying 
+ES principles in real word cases studies and using Big Data. The principal purpose is to 
+strengthen urban resilience. 
+To that end, we can rely on a consortium of distinguished researchers in three Chinese 
+research institutions with far-reaching relationships to provincial and local planning. The 
+IMECOGIP network is backed- up by nine cooperation agreements (MOUs). In Germany, 
+together with municipalities and the Ministry of Environment, we defined case and pilot 
+studies and research areas in the Ruhr area. Further, three renowned German consulting 
+companies, two of which are very active in urban and landscape planning all over China, 
+
+There is an increasing worldwide reception of the ecosystem services (ES)-framework in 
+urban planning. Germany actively fosters Green Infrastructure(GI) utilizing ES terminology 
+on all levels of spatial planning. In China, the central government now streamlines an eco- 
+system -based approach of environmental governance accompanied by major institutional 
+reforms. Surprisingly, in both countries, there is a substantial lack of an up-to-date con- 
+ceptualization of ES. Research in the policy -science interface is needed focusing on ex- 
+plicit policy goals, inclusion of relevant stakeholders, representative and thorough data 
+coverage, and iterative development of ES toolboxes. IMECOGIP will substantially allevi- 
+ate this deficit. As a major result of the definition phase, we stated the different degrees of 
+integration of the ES concept into urban planning and- especially - into GI planning in the 
+two regional, socio -cultural and political contexts of China(Shanghai) and Germany(Ruhr 
+area). In the latter, we detected a discrepancy between the planning levels, where ES- 
+thinking has not yet inspired planning routines connected to land use and GI planning 
+(zoning plans, landscape plans, Environmental Impact Assessment, compensation mech - 
+anisms, etc.). In a joint Sino -German action, the IMECOGIP research group determined 
+8 most significant and 14 significant ES for Shanghai and the Ruhr area and graded the 
+ES supply of specific land use/land cover classes(LULC) in a qualitative manner. Further- 
+more, the group was able to compile a huge body of high quality data with a high spatial 
+resolution(< 1 m) that enable quantitative ES assessments in Shanghai and the Ruhr area. 
+During the R&D- Phase IMECOGIP will develop a user-friendly, scientifically sound and 
+spatially explicit open source toolbox to assess and evaluate ES (demand and supply), 
+synergies and trade -offs in the context of GI for different urban development scenarios; 
+The toolbox will allow for comparative evaluations of ES-conformity of different planning 
+scenarios. We will develop and test methods how GI planning can be improved by applying 
+ES principles in real word cases studies and using Big Data. The principal purpose is to 
+strengthen urban resilience. 
+To that end, we can rely on a consortium of distinguished researchers in three Chinese 
+research institutions with far-reaching relationships to provincial and local planning. The 
+IMECOGIP network is backed- up by nine cooperation agreements (MOUs). In Germany, 
+together with municipalities and the Ministry of Environment, we defined case and pilot 
+studies and research areas in the Ruhr area. Further, three renowned German consulting 
+companies, two of which are very active in urban and landscape planning all over China, 
+
+There is an increasing worldwide reception of the ecosystem services (ES)-framework in 
+urban planning. Germany actively fosters Green Infrastructure(GI) utilizing ES terminology 
+on all levels of spatial planning. In China, the central government now streamlines an eco- 
+system -based approach of environmental governance accompanied by major institutional 
+reforms. Surprisingly, in both countries, there is a substantial lack of an up-to-date con- 
+ceptualization of ES. Research in the policy -science interface is needed focusing on ex- 
+plicit policy goals, inclusion of relevant stakeholders, representative and thorough data 
+coverage, and iterative development of ES toolboxes. IMECOGIP will substantially allevi- 
+ate this deficit. As a major result of the definition phase, we stated the different degrees of 
+integration of the ES concept into urban planning and- especially - into GI planning in the 
+two regional, socio -cultural and political contexts of China(Shanghai) and Germany(Ruhr 
+area). In the latter, we detected a discrepancy between the planning levels, where ES- 
+thinking has not yet inspired planning routines connected to land use and GI planning 
+(zoning plans, landscape plans, Environmental Impact Assessment, compensation mech - 
+anisms, etc.). In a joint Sino -German action, the IMECOGIP research group determined 
+8 most significant and 14 significant ES for Shanghai and the Ruhr area and graded the 
+ES supply of specific land use/land cover classes(LULC) in a qualitative manner. Further- 
+more, the group was able to compile a huge body of high quality data with a high spatial 
+resolution(< 1 m) that enable quantitative ES assessments in Shanghai and the Ruhr area. 
+During the R&D- Phase IMECOGIP will develop a user-friendly, scientifically sound and 
+spatially explicit open source toolbox to assess and evaluate ES (demand and supply), 
+synergies and trade -offs in the context of GI for different urban development scenarios; 
+The toolbox will allow for comparative evaluations of ES-conformity of different planning 
+scenarios. We will develop and test methods how GI planning can be improved by applying 
+ES principles in real word cases studies and using Big Data. The principal purpose is to 
+strengthen urban resilience. 
+To that end, we can rely on a consortium of distinguished researchers in three Chinese 
+research institutions with far-reaching relationships to provincial and local planning. The 
+IMECOGIP network is backed- up by nine cooperation agreements (MOUs). In Germany, 
+together with municipalities and the Ministry of Environment, we defined case and pilot 
+studies and research areas in the Ruhr area. Further, three renowned German consulting 
+companies, two of which are very active in urban and landscape planning all over China, 
+
+There is an increasing worldwide reception of the ecosystem services (ES)-framework in 
+urban planning. Germany actively fosters Green Infrastructure(GI) utilizing ES terminology 
+on all levels of spatial planning. In China, the central government now streamlines an eco- 
+system -based approach of environmental governance accompanied by major institutional 
+reforms. Surprisingly, in both countries, there is a substantial lack of an up-to-date con- 
+ceptualization of ES. Research in the policy -science interface is needed focusing on ex- 
+plicit policy goals, inclusion of relevant stakeholders, representative and thorough data 
+coverage, and iterative development of ES toolboxes. IMECOGIP will substantially allevi- 
+ate this deficit. As a major result of the definition phase, we stated the different degrees of 
+integration of the ES concept into urban planning and- especially - into GI planning in the 
+two regional, socio -cultural and political contexts of China(Shanghai) and Germany(Ruhr 
+area). In the latter, we detected a discrepancy between the planning levels, where ES- 
+thinking has not yet inspired planning routines connected to land use and GI planning 
+(zoning plans, landscape plans, Environmental Impact Assessment, compensation mech - 
+anisms, etc.). In a joint Sino -German action, the IMECOGIP research group determined 
+8 most significant and 14 significant ES for Shanghai and the Ruhr area and graded the 
+ES supply of specific land use/land cover classes(LULC) in a qualitative manner. Further- 
+more, the group was able to compile a huge body of high quality data with a high spatial 
+resolution(< 1 m) that enable quantitative ES assessments in Shanghai and the Ruhr area. 
+During the R&D- Phase IMECOGIP will develop a user-friendly, scientifically sound and 
+spatially explicit open source toolbox to assess and evaluate ES (demand and supply), 
+synergies and trade -offs in the context of GI for different urban development scenarios; 
+The toolbox will allow for comparative evaluations of ES-conformity of different planning 
+scenarios. We will develop and test methods how GI planning can be improved by applying 
+ES principles in real word cases studies and using Big Data. The principal purpose is to 
+strengthen urban resilience. 
+To that end, we can rely on a consortium of distinguished researchers in three Chinese 
+research institutions with far-reaching relationships to provincial and local planning. The 
+IMECOGIP network is backed- up by nine cooperation agreements (MOUs). In Germany, 
+together with municipalities and the Ministry of Environment, we defined case and pilot 
+studies and research areas in the Ruhr area. Further, three renowned German consulting 
+companies, two of which are very active in urban and landscape planning all over China, 
+
+There is an increasing worldwide reception of the ecosystem services (ES)-framework in 
+urban planning. Germany actively fosters Green Infrastructure(GI) utilizing ES terminology 
+on all levels of spatial planning. In China, the central government now streamlines an eco- 
+system -based approach of environmental governance accompanied by major institutional 
+reforms. Surprisingly, in both countries, there is a substantial lack of an up-to-date con- 
+ceptualization of ES. Research in the policy -science interface is needed focusing on ex- 
+plicit policy goals, inclusion of relevant stakeholders, representative and thorough data 
+coverage, and iterative development of ES toolboxes. IMECOGIP will substantially allevi- 
+ate this deficit. As a major result of the definition phase, we stated the different degrees of 
+integration of the ES concept into urban planning and- especially - into GI planning in the 
+two regional, socio -cultural and political contexts of China(Shanghai) and Germany(Ruhr 
+area). In the latter, we detected a discrepancy between the planning levels, where ES- 
+thinking has not yet inspired planning routines connected to land use and GI planning 
+(zoning plans, landscape plans, Environmental Impact Assessment, compensation mech - 
+anisms, etc.). In a joint Sino -German action, the IMECOGIP research group determined 
+8 most significant and 14 significant ES for Shanghai and the Ruhr area and graded the 
+ES supply of specific land use/land cover classes(LULC) in a qualitative manner. Further- 
+more, the group was able to compile a huge body of high quality data with a high spatial 
+resolution(< 1 m) that enable quantitative ES assessments in Shanghai and the Ruhr area. 
+During the R&D- Phase IMECOGIP will develop a user-friendly, scientifically sound and 
+spatially explicit open source toolbox to assess and evaluate ES (demand and supply), 
+synergies and trade -offs in the context of GI for different urban development scenarios; 
+The toolbox will allow for comparative evaluations of ES-conformity of different planning 
+scenarios. We will develop and test methods how GI planning can be improved by applying 
+ES principles in real word cases studies and using Big Data. The principal purpose is to 
+strengthen urban resilience. 
+To that end, we can rely on a consortium of distinguished researchers in three Chinese 
+research institutions with far-reaching relationships to provincial and local planning. The 
+IMECOGIP network is backed- up by nine cooperation agreements (MOUs). In Germany, 
+together with municipalities and the Ministry of Environment, we defined case and pilot 
+studies and research areas in the Ruhr area. Further, three renowned German consulting 
+companies, two of which are very active in urban and landscape planning all over China, 
+
+There is an increasing worldwide reception of the ecosystem services (ES)-framework in 
+urban planning. Germany actively fosters Green Infrastructure(GI) utilizing ES terminology 
+on all levels of spatial planning. In China, the central government now streamlines an eco- 
+system -based approach of environmental governance accompanied by major institutional 
+reforms. Surprisingly, in both countries, there is a substantial lack of an up-to-date con- 
+ceptualization of ES. Research in the policy -science interface is needed focusing on ex- 
+plicit policy goals, inclusion of relevant stakeholders, representative and thorough data 
+coverage, and iterative development of ES toolboxes. IMECOGIP will substantially allevi- 
+ate this deficit. As a major result of the definition phase, we stated the different degrees of 
+integration of the ES concept into urban planning and- especially - into GI planning in the 
+two regional, socio -cultural and political contexts of China(Shanghai) and Germany(Ruhr 
+area). In the latter, we detected a discrepancy between the planning levels, where ES- 
+thinking has not yet inspired planning routines connected to land use and GI planning 
+(zoning plans, landscape plans, Environmental Impact Assessment, compensation mech - 
+anisms, etc.). In a joint Sino -German action, the IMECOGIP research group determined 
+8 most significant and 14 significant ES for Shanghai and the Ruhr area and graded the 
+ES supply of specific land use/land cover classes(LULC) in a qualitative manner. Further- 
+more, the group was able to compile a huge body of high quality data with a high spatial 
+resolution(< 1 m) that enable quantitative ES assessments in Shanghai and the Ruhr area. 
+During the R&D- Phase IMECOGIP will develop a user-friendly, scientifically sound and 
+spatially explicit open source toolbox to assess and evaluate ES (demand and supply), 
+synergies and trade -offs in the context of GI for different urban development scenarios; 
+The toolbox will allow for comparative evaluations of ES-conformity of different planning 
+scenarios. We will develop and test methods how GI planning can be improved by applying 
+ES principles in real word cases studies and using Big Data. The principal purpose is to 
+strengthen urban resilience. 
+To that end, we can rely on a consortium of distinguished researchers in three Chinese 
+research institutions with far-reaching relationships to provincial and local planning. The 
+IMECOGIP network is backed- up by nine cooperation agreements (MOUs). In Germany, 
+together with municipalities and the Ministry of Environment, we defined case and pilot 
+studies and research areas in the Ruhr area. Further, three renowned German consulting 
+companies, two of which are very active in urban and landscape planning all over China, 
+
+There is an increasing worldwide reception of the ecosystem services (ES)-framework in 
+urban planning. Germany actively fosters Green Infrastructure(GI) utilizing ES terminology 
+on all levels of spatial planning. In China, the central government now streamlines an eco- 
+system -based approach of environmental governance accompanied by major institutional 
+reforms. Surprisingly, in both countries, there is a substantial lack of an up-to-date con- 
+ceptualization of ES. Research in the policy -science interface is needed focusing on ex- 
+plicit policy goals, inclusion of relevant stakeholders, representative and thorough data 
+coverage, and iterative development of ES toolboxes. IMECOGIP will substantially allevi- 
+ate this deficit. As a major result of the definition phase, we stated the different degrees of 
+integration of the ES concept into urban planning and- especially - into GI planning in the 
+two regional, socio -cultural and political contexts of China(Shanghai) and Germany(Ruhr 
+area). In the latter, we detected a discrepancy between the planning levels, where ES- 
+thinking has not yet inspired planning routines connected to land use and GI planning 
+(zoning plans, landscape plans, Environmental Impact Assessment, compensation mech - 
+anisms, etc.). In a joint Sino -German action, the IMECOGIP research group determined 
+8 most significant and 14 significant ES for Shanghai and the Ruhr area and graded the 
+ES supply of specific land use/land cover classes(LULC) in a qualitative manner. Further- 
+more, the group was able to compile a huge body of high quality data with a high spatial 
+resolution(< 1 m) that enable quantitative ES assessments in Shanghai and the Ruhr area. 
+During the R&D- Phase IMECOGIP will develop a user-friendly, scientifically sound and 
+spatially explicit open source toolbox to assess and evaluate ES (demand and supply), 
+synergies and trade -offs in the context of GI for different urban development scenarios; 
+The toolbox will allow for comparative evaluations of ES-conformity of different planning 
+scenarios. We will develop and test methods how GI planning can be improved by applying 
+ES principles in real word cases studies and using Big Data. The principal purpose is to 
+strengthen urban resilience. 
+To that end, we can rely on a consortium of distinguished researchers in three Chinese 
+research institutions with far-reaching relationships to provincial and local planning. The 
+IMECOGIP network is backed- up by nine cooperation agreements (MOUs). In Germany, 
+together with municipalities and the Ministry of Environment, we defined case and pilot 
+studies and research areas in the Ruhr area. Further, three renowned German consulting 
+companies, two of which are very active in urban and landscape planning all over China, 

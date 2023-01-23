@@ -1,0 +1,912 @@
+1 Description of the problem 
+1.1 Regional challenges and the need for act ion 
+Typhoons and associated floods repeatedly hit Central Viet Nam, predominantly in autumn. Within 
+the last two decades, catastrophic events took place in 1997, 1998, 1999, 2007, 2008, 2009, 2013, 
+2016 and typhoon “Doksuri” in 2017. In 2016, typhoon "Sar ika" and subsequent flood events left 
+134 people dead and missing (UN 2016). In Central Viet Nam, 10- 30% of the population was 
+affected, about one million people were in urgent need for support, and economic loss accounted 
+for 460 million US$. In October 2019 and March 2020, extreme weather events resulted in four 
+fatalities, over 5,000 damaged buildings and infrastructures, considerable loss of agri -/ 
+aquacultural land and significant economic damage especially amongst small and mid- sized 
+enterprises in ci ties/towns. As a result of climatic change, it is likely that extreme weather events 
+will further intensify in magnitude and frequency (IPCC 2014, MONRE 2016, Bangalore et al. 
+2019). Coastal cities are particularly threatened by flooding – and with them the economic basis 
+and sustainability of their urban regions (Kulp et al. 2019). Climate change and flooding will also 
+intensify impacts on water quality or spreading pathogens through waterborne transmission, with 
+knock -on effects on both natural and human systems (Tran & Shaw 2007, Rui et al. 2018). The 
+situation in Central Viet Nam is characterized by rapid urbanization, particularly in small and mid-
+sized coastal cities (GSO 2016), which leads to (1) increased surface sealing and associated 
+inundations following heavy rainfall, (2) loss of infiltration and retention areas generating higher 
+runoff and flood depth, and (3) increased exposure through the expansion of settlements into 
+flood -prone areas (Garschagen 2014, 2015, Sudmeier -Rieux et al. 2015, DiGreg orio et al. 2016). 
+In Central Viet Nam, high urbanization trends co- occur with land use changes in the upper 
+catchment of the rivers (Truong et al. 2018, Tamura et al. 2020). The consequences are dramatic 
+as the coastal area is squeezed between the mountai nous upstream area and the sea, resulting 
+in very short response times when heavy rainfall occurs. Due to changing settlement patterns, 
+housing typologies and lifestyles (from rural to urban), combined with societal transformation, local 
+vulnerabilities as well as adaptation practices are also changing and have to be considered 
+(Garschagen & Kraas 2011, Pelling 2003, Carew -Reid 2008, Bloch et al. 2012). This dynamic and 
+forward- looking perspective is not only relevant for preventive/adaptive planning, but particularly 
+in a Covid -19 context, in which the virus and subsequent economic downturn have massive 
+implications for future vulnerability and adaptive capacity. Local communities found ways to cope 
+with recurring flood events by the construction of dams (e .g. upstream of city of Hue ), flood-
+adapted housing, and channels for water drainage. Yet, as demonstrated by the severe impacts 
+of past events, and as emphasized by local stakeholders in the Definition Phase, these efforts are 
+not sufficient to prevent di sasters in the future. Instead, the development of new industrial and 
+residential areas is still given priority by local decision- makers intending to boost the economy, 
+while little incentives for risk -informed planning are provided (Garschagen 2016). Addi tionally, in 
+the city of Hue , which is the old capital and home to several of Viet Nam's most treasured national 
+1 Description of the problem 
+1.1 Regional challenges and the need for act ion 
+Typhoons and associated floods repeatedly hit Central Viet Nam, predominantly in autumn. Within 
+the last two decades, catastrophic events took place in 1997, 1998, 1999, 2007, 2008, 2009, 2013, 
+2016 and typhoon “Doksuri” in 2017. In 2016, typhoon "Sar ika" and subsequent flood events left 
+134 people dead and missing (UN 2016). In Central Viet Nam, 10- 30% of the population was 
+affected, about one million people were in urgent need for support, and economic loss accounted 
+for 460 million US$. In October 2019 and March 2020, extreme weather events resulted in four 
+fatalities, over 5,000 damaged buildings and infrastructures, considerable loss of agri -/ 
+aquacultural land and significant economic damage especially amongst small and mid- sized 
+enterprises in ci ties/towns. As a result of climatic change, it is likely that extreme weather events 
+will further intensify in magnitude and frequency (IPCC 2014, MONRE 2016, Bangalore et al. 
+2019). Coastal cities are particularly threatened by flooding – and with them the economic basis 
+and sustainability of their urban regions (Kulp et al. 2019). Climate change and flooding will also 
+intensify impacts on water quality or spreading pathogens through waterborne transmission, with 
+knock -on effects on both natural and human systems (Tran & Shaw 2007, Rui et al. 2018). The 
+situation in Central Viet Nam is characterized by rapid urbanization, particularly in small and mid-
+sized coastal cities (GSO 2016), which leads to (1) increased surface sealing and associated 
+inundations following heavy rainfall, (2) loss of infiltration and retention areas generating higher 
+runoff and flood depth, and (3) increased exposure through the expansion of settlements into 
+flood -prone areas (Garschagen 2014, 2015, Sudmeier -Rieux et al. 2015, DiGreg orio et al. 2016). 
+In Central Viet Nam, high urbanization trends co- occur with land use changes in the upper 
+catchment of the rivers (Truong et al. 2018, Tamura et al. 2020). The consequences are dramatic 
+as the coastal area is squeezed between the mountai nous upstream area and the sea, resulting 
+in very short response times when heavy rainfall occurs. Due to changing settlement patterns, 
+housing typologies and lifestyles (from rural to urban), combined with societal transformation, local 
+vulnerabilities as well as adaptation practices are also changing and have to be considered 
+(Garschagen & Kraas 2011, Pelling 2003, Carew -Reid 2008, Bloch et al. 2012). This dynamic and 
+forward- looking perspective is not only relevant for preventive/adaptive planning, but particularly 
+in a Covid -19 context, in which the virus and subsequent economic downturn have massive 
+implications for future vulnerability and adaptive capacity. Local communities found ways to cope 
+with recurring flood events by the construction of dams (e .g. upstream of city of Hue ), flood-
+adapted housing, and channels for water drainage. Yet, as demonstrated by the severe impacts 
+of past events, and as emphasized by local stakeholders in the Definition Phase, these efforts are 
+not sufficient to prevent di sasters in the future. Instead, the development of new industrial and 
+residential areas is still given priority by local decision- makers intending to boost the economy, 
+while little incentives for risk -informed planning are provided (Garschagen 2016). Addi tionally, in 
+the city of Hue , which is the old capital and home to several of Viet Nam's most treasured national 
+1 Description of the problem 
+1.1 Regional challenges and the need for act ion 
+Typhoons and associated floods repeatedly hit Central Viet Nam, predominantly in autumn. Within 
+the last two decades, catastrophic events took place in 1997, 1998, 1999, 2007, 2008, 2009, 2013, 
+2016 and typhoon “Doksuri” in 2017. In 2016, typhoon "Sar ika" and subsequent flood events left 
+134 people dead and missing (UN 2016). In Central Viet Nam, 10- 30% of the population was 
+affected, about one million people were in urgent need for support, and economic loss accounted 
+for 460 million US$. In October 2019 and March 2020, extreme weather events resulted in four 
+fatalities, over 5,000 damaged buildings and infrastructures, considerable loss of agri -/ 
+aquacultural land and significant economic damage especially amongst small and mid- sized 
+enterprises in ci ties/towns. As a result of climatic change, it is likely that extreme weather events 
+will further intensify in magnitude and frequency (IPCC 2014, MONRE 2016, Bangalore et al. 
+2019). Coastal cities are particularly threatened by flooding – and with them the economic basis 
+and sustainability of their urban regions (Kulp et al. 2019). Climate change and flooding will also 
+intensify impacts on water quality or spreading pathogens through waterborne transmission, with 
+knock -on effects on both natural and human systems (Tran & Shaw 2007, Rui et al. 2018). The 
+situation in Central Viet Nam is characterized by rapid urbanization, particularly in small and mid-
+sized coastal cities (GSO 2016), which leads to (1) increased surface sealing and associated 
+inundations following heavy rainfall, (2) loss of infiltration and retention areas generating higher 
+runoff and flood depth, and (3) increased exposure through the expansion of settlements into 
+flood -prone areas (Garschagen 2014, 2015, Sudmeier -Rieux et al. 2015, DiGreg orio et al. 2016). 
+In Central Viet Nam, high urbanization trends co- occur with land use changes in the upper 
+catchment of the rivers (Truong et al. 2018, Tamura et al. 2020). The consequences are dramatic 
+as the coastal area is squeezed between the mountai nous upstream area and the sea, resulting 
+in very short response times when heavy rainfall occurs. Due to changing settlement patterns, 
+housing typologies and lifestyles (from rural to urban), combined with societal transformation, local 
+vulnerabilities as well as adaptation practices are also changing and have to be considered 
+(Garschagen & Kraas 2011, Pelling 2003, Carew -Reid 2008, Bloch et al. 2012). This dynamic and 
+forward- looking perspective is not only relevant for preventive/adaptive planning, but particularly 
+in a Covid -19 context, in which the virus and subsequent economic downturn have massive 
+implications for future vulnerability and adaptive capacity. Local communities found ways to cope 
+with recurring flood events by the construction of dams (e .g. upstream of city of Hue ), flood-
+adapted housing, and channels for water drainage. Yet, as demonstrated by the severe impacts 
+of past events, and as emphasized by local stakeholders in the Definition Phase, these efforts are 
+not sufficient to prevent di sasters in the future. Instead, the development of new industrial and 
+residential areas is still given priority by local decision- makers intending to boost the economy, 
+while little incentives for risk -informed planning are provided (Garschagen 2016). Addi tionally, in 
+the city of Hue , which is the old capital and home to several of Viet Nam's most treasured national 
+1 Description of the problem 
+1.1 Regional challenges and the need for act ion 
+Typhoons and associated floods repeatedly hit Central Viet Nam, predominantly in autumn. Within 
+the last two decades, catastrophic events took place in 1997, 1998, 1999, 2007, 2008, 2009, 2013, 
+2016 and typhoon “Doksuri” in 2017. In 2016, typhoon "Sar ika" and subsequent flood events left 
+134 people dead and missing (UN 2016). In Central Viet Nam, 10- 30% of the population was 
+affected, about one million people were in urgent need for support, and economic loss accounted 
+for 460 million US$. In October 2019 and March 2020, extreme weather events resulted in four 
+fatalities, over 5,000 damaged buildings and infrastructures, considerable loss of agri -/ 
+aquacultural land and significant economic damage especially amongst small and mid- sized 
+enterprises in ci ties/towns. As a result of climatic change, it is likely that extreme weather events 
+will further intensify in magnitude and frequency (IPCC 2014, MONRE 2016, Bangalore et al. 
+2019). Coastal cities are particularly threatened by flooding – and with them the economic basis 
+and sustainability of their urban regions (Kulp et al. 2019). Climate change and flooding will also 
+intensify impacts on water quality or spreading pathogens through waterborne transmission, with 
+knock -on effects on both natural and human systems (Tran & Shaw 2007, Rui et al. 2018). The 
+situation in Central Viet Nam is characterized by rapid urbanization, particularly in small and mid-
+sized coastal cities (GSO 2016), which leads to (1) increased surface sealing and associated 
+inundations following heavy rainfall, (2) loss of infiltration and retention areas generating higher 
+runoff and flood depth, and (3) increased exposure through the expansion of settlements into 
+flood -prone areas (Garschagen 2014, 2015, Sudmeier -Rieux et al. 2015, DiGreg orio et al. 2016). 
+In Central Viet Nam, high urbanization trends co- occur with land use changes in the upper 
+catchment of the rivers (Truong et al. 2018, Tamura et al. 2020). The consequences are dramatic 
+as the coastal area is squeezed between the mountai nous upstream area and the sea, resulting 
+in very short response times when heavy rainfall occurs. Due to changing settlement patterns, 
+housing typologies and lifestyles (from rural to urban), combined with societal transformation, local 
+vulnerabilities as well as adaptation practices are also changing and have to be considered 
+(Garschagen & Kraas 2011, Pelling 2003, Carew -Reid 2008, Bloch et al. 2012). This dynamic and 
+forward- looking perspective is not only relevant for preventive/adaptive planning, but particularly 
+in a Covid -19 context, in which the virus and subsequent economic downturn have massive 
+implications for future vulnerability and adaptive capacity. Local communities found ways to cope 
+with recurring flood events by the construction of dams (e .g. upstream of city of Hue ), flood-
+adapted housing, and channels for water drainage. Yet, as demonstrated by the severe impacts 
+of past events, and as emphasized by local stakeholders in the Definition Phase, these efforts are 
+not sufficient to prevent di sasters in the future. Instead, the development of new industrial and 
+residential areas is still given priority by local decision- makers intending to boost the economy, 
+while little incentives for risk -informed planning are provided (Garschagen 2016). Addi tionally, in 
+the city of Hue , which is the old capital and home to several of Viet Nam's most treasured national 
+1 Description of the problem 
+1.1 Regional challenges and the need for act ion 
+Typhoons and associated floods repeatedly hit Central Viet Nam, predominantly in autumn. Within 
+the last two decades, catastrophic events took place in 1997, 1998, 1999, 2007, 2008, 2009, 2013, 
+2016 and typhoon “Doksuri” in 2017. In 2016, typhoon "Sar ika" and subsequent flood events left 
+134 people dead and missing (UN 2016). In Central Viet Nam, 10- 30% of the population was 
+affected, about one million people were in urgent need for support, and economic loss accounted 
+for 460 million US$. In October 2019 and March 2020, extreme weather events resulted in four 
+fatalities, over 5,000 damaged buildings and infrastructures, considerable loss of agri -/ 
+aquacultural land and significant economic damage especially amongst small and mid- sized 
+enterprises in ci ties/towns. As a result of climatic change, it is likely that extreme weather events 
+will further intensify in magnitude and frequency (IPCC 2014, MONRE 2016, Bangalore et al. 
+2019). Coastal cities are particularly threatened by flooding – and with them the economic basis 
+and sustainability of their urban regions (Kulp et al. 2019). Climate change and flooding will also 
+intensify impacts on water quality or spreading pathogens through waterborne transmission, with 
+knock -on effects on both natural and human systems (Tran & Shaw 2007, Rui et al. 2018). The 
+situation in Central Viet Nam is characterized by rapid urbanization, particularly in small and mid-
+sized coastal cities (GSO 2016), which leads to (1) increased surface sealing and associated 
+inundations following heavy rainfall, (2) loss of infiltration and retention areas generating higher 
+runoff and flood depth, and (3) increased exposure through the expansion of settlements into 
+flood -prone areas (Garschagen 2014, 2015, Sudmeier -Rieux et al. 2015, DiGreg orio et al. 2016). 
+In Central Viet Nam, high urbanization trends co- occur with land use changes in the upper 
+catchment of the rivers (Truong et al. 2018, Tamura et al. 2020). The consequences are dramatic 
+as the coastal area is squeezed between the mountai nous upstream area and the sea, resulting 
+in very short response times when heavy rainfall occurs. Due to changing settlement patterns, 
+housing typologies and lifestyles (from rural to urban), combined with societal transformation, local 
+vulnerabilities as well as adaptation practices are also changing and have to be considered 
+(Garschagen & Kraas 2011, Pelling 2003, Carew -Reid 2008, Bloch et al. 2012). This dynamic and 
+forward- looking perspective is not only relevant for preventive/adaptive planning, but particularly 
+in a Covid -19 context, in which the virus and subsequent economic downturn have massive 
+implications for future vulnerability and adaptive capacity. Local communities found ways to cope 
+with recurring flood events by the construction of dams (e .g. upstream of city of Hue ), flood-
+adapted housing, and channels for water drainage. Yet, as demonstrated by the severe impacts 
+of past events, and as emphasized by local stakeholders in the Definition Phase, these efforts are 
+not sufficient to prevent di sasters in the future. Instead, the development of new industrial and 
+residential areas is still given priority by local decision- makers intending to boost the economy, 
+while little incentives for risk -informed planning are provided (Garschagen 2016). Addi tionally, in 
+the city of Hue , which is the old capital and home to several of Viet Nam's most treasured national 
+1 Description of the problem 
+1.1 Regional challenges and the need for act ion 
+Typhoons and associated floods repeatedly hit Central Viet Nam, predominantly in autumn. Within 
+the last two decades, catastrophic events took place in 1997, 1998, 1999, 2007, 2008, 2009, 2013, 
+2016 and typhoon “Doksuri” in 2017. In 2016, typhoon "Sar ika" and subsequent flood events left 
+134 people dead and missing (UN 2016). In Central Viet Nam, 10- 30% of the population was 
+affected, about one million people were in urgent need for support, and economic loss accounted 
+for 460 million US$. In October 2019 and March 2020, extreme weather events resulted in four 
+fatalities, over 5,000 damaged buildings and infrastructures, considerable loss of agri -/ 
+aquacultural land and significant economic damage especially amongst small and mid- sized 
+enterprises in ci ties/towns. As a result of climatic change, it is likely that extreme weather events 
+will further intensify in magnitude and frequency (IPCC 2014, MONRE 2016, Bangalore et al. 
+2019). Coastal cities are particularly threatened by flooding – and with them the economic basis 
+and sustainability of their urban regions (Kulp et al. 2019). Climate change and flooding will also 
+intensify impacts on water quality or spreading pathogens through waterborne transmission, with 
+knock -on effects on both natural and human systems (Tran & Shaw 2007, Rui et al. 2018). The 
+situation in Central Viet Nam is characterized by rapid urbanization, particularly in small and mid-
+sized coastal cities (GSO 2016), which leads to (1) increased surface sealing and associated 
+inundations following heavy rainfall, (2) loss of infiltration and retention areas generating higher 
+runoff and flood depth, and (3) increased exposure through the expansion of settlements into 
+flood -prone areas (Garschagen 2014, 2015, Sudmeier -Rieux et al. 2015, DiGreg orio et al. 2016). 
+In Central Viet Nam, high urbanization trends co- occur with land use changes in the upper 
+catchment of the rivers (Truong et al. 2018, Tamura et al. 2020). The consequences are dramatic 
+as the coastal area is squeezed between the mountai nous upstream area and the sea, resulting 
+in very short response times when heavy rainfall occurs. Due to changing settlement patterns, 
+housing typologies and lifestyles (from rural to urban), combined with societal transformation, local 
+vulnerabilities as well as adaptation practices are also changing and have to be considered 
+(Garschagen & Kraas 2011, Pelling 2003, Carew -Reid 2008, Bloch et al. 2012). This dynamic and 
+forward- looking perspective is not only relevant for preventive/adaptive planning, but particularly 
+in a Covid -19 context, in which the virus and subsequent economic downturn have massive 
+implications for future vulnerability and adaptive capacity. Local communities found ways to cope 
+with recurring flood events by the construction of dams (e .g. upstream of city of Hue ), flood-
+adapted housing, and channels for water drainage. Yet, as demonstrated by the severe impacts 
+of past events, and as emphasized by local stakeholders in the Definition Phase, these efforts are 
+not sufficient to prevent di sasters in the future. Instead, the development of new industrial and 
+residential areas is still given priority by local decision- makers intending to boost the economy, 
+while little incentives for risk -informed planning are provided (Garschagen 2016). Addi tionally, in 
+the city of Hue , which is the old capital and home to several of Viet Nam's most treasured national 
+1 Description of the problem 
+1.1 Regional challenges and the need for act ion 
+Typhoons and associated floods repeatedly hit Central Viet Nam, predominantly in autumn. Within 
+the last two decades, catastrophic events took place in 1997, 1998, 1999, 2007, 2008, 2009, 2013, 
+2016 and typhoon “Doksuri” in 2017. In 2016, typhoon "Sar ika" and subsequent flood events left 
+134 people dead and missing (UN 2016). In Central Viet Nam, 10- 30% of the population was 
+affected, about one million people were in urgent need for support, and economic loss accounted 
+for 460 million US$. In October 2019 and March 2020, extreme weather events resulted in four 
+fatalities, over 5,000 damaged buildings and infrastructures, considerable loss of agri -/ 
+aquacultural land and significant economic damage especially amongst small and mid- sized 
+enterprises in ci ties/towns. As a result of climatic change, it is likely that extreme weather events 
+will further intensify in magnitude and frequency (IPCC 2014, MONRE 2016, Bangalore et al. 
+2019). Coastal cities are particularly threatened by flooding – and with them the economic basis 
+and sustainability of their urban regions (Kulp et al. 2019). Climate change and flooding will also 
+intensify impacts on water quality or spreading pathogens through waterborne transmission, with 
+knock -on effects on both natural and human systems (Tran & Shaw 2007, Rui et al. 2018). The 
+situation in Central Viet Nam is characterized by rapid urbanization, particularly in small and mid-
+sized coastal cities (GSO 2016), which leads to (1) increased surface sealing and associated 
+inundations following heavy rainfall, (2) loss of infiltration and retention areas generating higher 
+runoff and flood depth, and (3) increased exposure through the expansion of settlements into 
+flood -prone areas (Garschagen 2014, 2015, Sudmeier -Rieux et al. 2015, DiGreg orio et al. 2016). 
+In Central Viet Nam, high urbanization trends co- occur with land use changes in the upper 
+catchment of the rivers (Truong et al. 2018, Tamura et al. 2020). The consequences are dramatic 
+as the coastal area is squeezed between the mountai nous upstream area and the sea, resulting 
+in very short response times when heavy rainfall occurs. Due to changing settlement patterns, 
+housing typologies and lifestyles (from rural to urban), combined with societal transformation, local 
+vulnerabilities as well as adaptation practices are also changing and have to be considered 
+(Garschagen & Kraas 2011, Pelling 2003, Carew -Reid 2008, Bloch et al. 2012). This dynamic and 
+forward- looking perspective is not only relevant for preventive/adaptive planning, but particularly 
+in a Covid -19 context, in which the virus and subsequent economic downturn have massive 
+implications for future vulnerability and adaptive capacity. Local communities found ways to cope 
+with recurring flood events by the construction of dams (e .g. upstream of city of Hue ), flood-
+adapted housing, and channels for water drainage. Yet, as demonstrated by the severe impacts 
+of past events, and as emphasized by local stakeholders in the Definition Phase, these efforts are 
+not sufficient to prevent di sasters in the future. Instead, the development of new industrial and 
+residential areas is still given priority by local decision- makers intending to boost the economy, 
+while little incentives for risk -informed planning are provided (Garschagen 2016). Addi tionally, in 
+the city of Hue , which is the old capital and home to several of Viet Nam's most treasured national 
+1 Description of the problem 
+1.1 Regional challenges and the need for act ion 
+Typhoons and associated floods repeatedly hit Central Viet Nam, predominantly in autumn. Within 
+the last two decades, catastrophic events took place in 1997, 1998, 1999, 2007, 2008, 2009, 2013, 
+2016 and typhoon “Doksuri” in 2017. In 2016, typhoon "Sar ika" and subsequent flood events left 
+134 people dead and missing (UN 2016). In Central Viet Nam, 10- 30% of the population was 
+affected, about one million people were in urgent need for support, and economic loss accounted 
+for 460 million US$. In October 2019 and March 2020, extreme weather events resulted in four 
+fatalities, over 5,000 damaged buildings and infrastructures, considerable loss of agri -/ 
+aquacultural land and significant economic damage especially amongst small and mid- sized 
+enterprises in ci ties/towns. As a result of climatic change, it is likely that extreme weather events 
+will further intensify in magnitude and frequency (IPCC 2014, MONRE 2016, Bangalore et al. 
+2019). Coastal cities are particularly threatened by flooding – and with them the economic basis 
+and sustainability of their urban regions (Kulp et al. 2019). Climate change and flooding will also 
+intensify impacts on water quality or spreading pathogens through waterborne transmission, with 
+knock -on effects on both natural and human systems (Tran & Shaw 2007, Rui et al. 2018). The 
+situation in Central Viet Nam is characterized by rapid urbanization, particularly in small and mid-
+sized coastal cities (GSO 2016), which leads to (1) increased surface sealing and associated 
+inundations following heavy rainfall, (2) loss of infiltration and retention areas generating higher 
+runoff and flood depth, and (3) increased exposure through the expansion of settlements into 
+flood -prone areas (Garschagen 2014, 2015, Sudmeier -Rieux et al. 2015, DiGreg orio et al. 2016). 
+In Central Viet Nam, high urbanization trends co- occur with land use changes in the upper 
+catchment of the rivers (Truong et al. 2018, Tamura et al. 2020). The consequences are dramatic 
+as the coastal area is squeezed between the mountai nous upstream area and the sea, resulting 
+in very short response times when heavy rainfall occurs. Due to changing settlement patterns, 
+housing typologies and lifestyles (from rural to urban), combined with societal transformation, local 
+vulnerabilities as well as adaptation practices are also changing and have to be considered 
+(Garschagen & Kraas 2011, Pelling 2003, Carew -Reid 2008, Bloch et al. 2012). This dynamic and 
+forward- looking perspective is not only relevant for preventive/adaptive planning, but particularly 
+in a Covid -19 context, in which the virus and subsequent economic downturn have massive 
+implications for future vulnerability and adaptive capacity. Local communities found ways to cope 
+with recurring flood events by the construction of dams (e .g. upstream of city of Hue ), flood-
+adapted housing, and channels for water drainage. Yet, as demonstrated by the severe impacts 
+of past events, and as emphasized by local stakeholders in the Definition Phase, these efforts are 
+not sufficient to prevent di sasters in the future. Instead, the development of new industrial and 
+residential areas is still given priority by local decision- makers intending to boost the economy, 
+while little incentives for risk -informed planning are provided (Garschagen 2016). Addi tionally, in 
+the city of Hue , which is the old capital and home to several of Viet Nam's most treasured national 
+1 Description of the problem 
+1.1 Regional challenges and the need for act ion 
+Typhoons and associated floods repeatedly hit Central Viet Nam, predominantly in autumn. Within 
+the last two decades, catastrophic events took place in 1997, 1998, 1999, 2007, 2008, 2009, 2013, 
+2016 and typhoon “Doksuri” in 2017. In 2016, typhoon "Sar ika" and subsequent flood events left 
+134 people dead and missing (UN 2016). In Central Viet Nam, 10- 30% of the population was 
+affected, about one million people were in urgent need for support, and economic loss accounted 
+for 460 million US$. In October 2019 and March 2020, extreme weather events resulted in four 
+fatalities, over 5,000 damaged buildings and infrastructures, considerable loss of agri -/ 
+aquacultural land and significant economic damage especially amongst small and mid- sized 
+enterprises in ci ties/towns. As a result of climatic change, it is likely that extreme weather events 
+will further intensify in magnitude and frequency (IPCC 2014, MONRE 2016, Bangalore et al. 
+2019). Coastal cities are particularly threatened by flooding – and with them the economic basis 
+and sustainability of their urban regions (Kulp et al. 2019). Climate change and flooding will also 
+intensify impacts on water quality or spreading pathogens through waterborne transmission, with 
+knock -on effects on both natural and human systems (Tran & Shaw 2007, Rui et al. 2018). The 
+situation in Central Viet Nam is characterized by rapid urbanization, particularly in small and mid-
+sized coastal cities (GSO 2016), which leads to (1) increased surface sealing and associated 
+inundations following heavy rainfall, (2) loss of infiltration and retention areas generating higher 
+runoff and flood depth, and (3) increased exposure through the expansion of settlements into 
+flood -prone areas (Garschagen 2014, 2015, Sudmeier -Rieux et al. 2015, DiGreg orio et al. 2016). 
+In Central Viet Nam, high urbanization trends co- occur with land use changes in the upper 
+catchment of the rivers (Truong et al. 2018, Tamura et al. 2020). The consequences are dramatic 
+as the coastal area is squeezed between the mountai nous upstream area and the sea, resulting 
+in very short response times when heavy rainfall occurs. Due to changing settlement patterns, 
+housing typologies and lifestyles (from rural to urban), combined with societal transformation, local 
+vulnerabilities as well as adaptation practices are also changing and have to be considered 
+(Garschagen & Kraas 2011, Pelling 2003, Carew -Reid 2008, Bloch et al. 2012). This dynamic and 
+forward- looking perspective is not only relevant for preventive/adaptive planning, but particularly 
+in a Covid -19 context, in which the virus and subsequent economic downturn have massive 
+implications for future vulnerability and adaptive capacity. Local communities found ways to cope 
+with recurring flood events by the construction of dams (e .g. upstream of city of Hue ), flood-
+adapted housing, and channels for water drainage. Yet, as demonstrated by the severe impacts 
+of past events, and as emphasized by local stakeholders in the Definition Phase, these efforts are 
+not sufficient to prevent di sasters in the future. Instead, the development of new industrial and 
+residential areas is still given priority by local decision- makers intending to boost the economy, 
+while little incentives for risk -informed planning are provided (Garschagen 2016). Addi tionally, in 
+the city of Hue , which is the old capital and home to several of Viet Nam's most treasured national 
+1 Description of the problem 
+1.1 Regional challenges and the need for act ion 
+Typhoons and associated floods repeatedly hit Central Viet Nam, predominantly in autumn. Within 
+the last two decades, catastrophic events took place in 1997, 1998, 1999, 2007, 2008, 2009, 2013, 
+2016 and typhoon “Doksuri” in 2017. In 2016, typhoon "Sar ika" and subsequent flood events left 
+134 people dead and missing (UN 2016). In Central Viet Nam, 10- 30% of the population was 
+affected, about one million people were in urgent need for support, and economic loss accounted 
+for 460 million US$. In October 2019 and March 2020, extreme weather events resulted in four 
+fatalities, over 5,000 damaged buildings and infrastructures, considerable loss of agri -/ 
+aquacultural land and significant economic damage especially amongst small and mid- sized 
+enterprises in ci ties/towns. As a result of climatic change, it is likely that extreme weather events 
+will further intensify in magnitude and frequency (IPCC 2014, MONRE 2016, Bangalore et al. 
+2019). Coastal cities are particularly threatened by flooding – and with them the economic basis 
+and sustainability of their urban regions (Kulp et al. 2019). Climate change and flooding will also 
+intensify impacts on water quality or spreading pathogens through waterborne transmission, with 
+knock -on effects on both natural and human systems (Tran & Shaw 2007, Rui et al. 2018). The 
+situation in Central Viet Nam is characterized by rapid urbanization, particularly in small and mid-
+sized coastal cities (GSO 2016), which leads to (1) increased surface sealing and associated 
+inundations following heavy rainfall, (2) loss of infiltration and retention areas generating higher 
+runoff and flood depth, and (3) increased exposure through the expansion of settlements into 
+flood -prone areas (Garschagen 2014, 2015, Sudmeier -Rieux et al. 2015, DiGreg orio et al. 2016). 
+In Central Viet Nam, high urbanization trends co- occur with land use changes in the upper 
+catchment of the rivers (Truong et al. 2018, Tamura et al. 2020). The consequences are dramatic 
+as the coastal area is squeezed between the mountai nous upstream area and the sea, resulting 
+in very short response times when heavy rainfall occurs. Due to changing settlement patterns, 
+housing typologies and lifestyles (from rural to urban), combined with societal transformation, local 
+vulnerabilities as well as adaptation practices are also changing and have to be considered 
+(Garschagen & Kraas 2011, Pelling 2003, Carew -Reid 2008, Bloch et al. 2012). This dynamic and 
+forward- looking perspective is not only relevant for preventive/adaptive planning, but particularly 
+in a Covid -19 context, in which the virus and subsequent economic downturn have massive 
+implications for future vulnerability and adaptive capacity. Local communities found ways to cope 
+with recurring flood events by the construction of dams (e .g. upstream of city of Hue ), flood-
+adapted housing, and channels for water drainage. Yet, as demonstrated by the severe impacts 
+of past events, and as emphasized by local stakeholders in the Definition Phase, these efforts are 
+not sufficient to prevent di sasters in the future. Instead, the development of new industrial and 
+residential areas is still given priority by local decision- makers intending to boost the economy, 
+while little incentives for risk -informed planning are provided (Garschagen 2016). Addi tionally, in 
+the city of Hue , which is the old capital and home to several of Viet Nam's most treasured national 
+1 Description of the problem 
+1.1 Regional challenges and the need for act ion 
+Typhoons and associated floods repeatedly hit Central Viet Nam, predominantly in autumn. Within 
+the last two decades, catastrophic events took place in 1997, 1998, 1999, 2007, 2008, 2009, 2013, 
+2016 and typhoon “Doksuri” in 2017. In 2016, typhoon "Sar ika" and subsequent flood events left 
+134 people dead and missing (UN 2016). In Central Viet Nam, 10- 30% of the population was 
+affected, about one million people were in urgent need for support, and economic loss accounted 
+for 460 million US$. In October 2019 and March 2020, extreme weather events resulted in four 
+fatalities, over 5,000 damaged buildings and infrastructures, considerable loss of agri -/ 
+aquacultural land and significant economic damage especially amongst small and mid- sized 
+enterprises in ci ties/towns. As a result of climatic change, it is likely that extreme weather events 
+will further intensify in magnitude and frequency (IPCC 2014, MONRE 2016, Bangalore et al. 
+2019). Coastal cities are particularly threatened by flooding – and with them the economic basis 
+and sustainability of their urban regions (Kulp et al. 2019). Climate change and flooding will also 
+intensify impacts on water quality or spreading pathogens through waterborne transmission, with 
+knock -on effects on both natural and human systems (Tran & Shaw 2007, Rui et al. 2018). The 
+situation in Central Viet Nam is characterized by rapid urbanization, particularly in small and mid-
+sized coastal cities (GSO 2016), which leads to (1) increased surface sealing and associated 
+inundations following heavy rainfall, (2) loss of infiltration and retention areas generating higher 
+runoff and flood depth, and (3) increased exposure through the expansion of settlements into 
+flood -prone areas (Garschagen 2014, 2015, Sudmeier -Rieux et al. 2015, DiGreg orio et al. 2016). 
+In Central Viet Nam, high urbanization trends co- occur with land use changes in the upper 
+catchment of the rivers (Truong et al. 2018, Tamura et al. 2020). The consequences are dramatic 
+as the coastal area is squeezed between the mountai nous upstream area and the sea, resulting 
+in very short response times when heavy rainfall occurs. Due to changing settlement patterns, 
+housing typologies and lifestyles (from rural to urban), combined with societal transformation, local 
+vulnerabilities as well as adaptation practices are also changing and have to be considered 
+(Garschagen & Kraas 2011, Pelling 2003, Carew -Reid 2008, Bloch et al. 2012). This dynamic and 
+forward- looking perspective is not only relevant for preventive/adaptive planning, but particularly 
+in a Covid -19 context, in which the virus and subsequent economic downturn have massive 
+implications for future vulnerability and adaptive capacity. Local communities found ways to cope 
+with recurring flood events by the construction of dams (e .g. upstream of city of Hue ), flood-
+adapted housing, and channels for water drainage. Yet, as demonstrated by the severe impacts 
+of past events, and as emphasized by local stakeholders in the Definition Phase, these efforts are 
+not sufficient to prevent di sasters in the future. Instead, the development of new industrial and 
+residential areas is still given priority by local decision- makers intending to boost the economy, 
+while little incentives for risk -informed planning are provided (Garschagen 2016). Addi tionally, in 
+the city of Hue , which is the old capital and home to several of Viet Nam's most treasured national 
+1 Description of the problem 
+1.1 Regional challenges and the need for act ion 
+Typhoons and associated floods repeatedly hit Central Viet Nam, predominantly in autumn. Within 
+the last two decades, catastrophic events took place in 1997, 1998, 1999, 2007, 2008, 2009, 2013, 
+2016 and typhoon “Doksuri” in 2017. In 2016, typhoon "Sar ika" and subsequent flood events left 
+134 people dead and missing (UN 2016). In Central Viet Nam, 10- 30% of the population was 
+affected, about one million people were in urgent need for support, and economic loss accounted 
+for 460 million US$. In October 2019 and March 2020, extreme weather events resulted in four 
+fatalities, over 5,000 damaged buildings and infrastructures, considerable loss of agri -/ 
+aquacultural land and significant economic damage especially amongst small and mid- sized 
+enterprises in ci ties/towns. As a result of climatic change, it is likely that extreme weather events 
+will further intensify in magnitude and frequency (IPCC 2014, MONRE 2016, Bangalore et al. 
+2019). Coastal cities are particularly threatened by flooding – and with them the economic basis 
+and sustainability of their urban regions (Kulp et al. 2019). Climate change and flooding will also 
+intensify impacts on water quality or spreading pathogens through waterborne transmission, with 
+knock -on effects on both natural and human systems (Tran & Shaw 2007, Rui et al. 2018). The 
+situation in Central Viet Nam is characterized by rapid urbanization, particularly in small and mid-
+sized coastal cities (GSO 2016), which leads to (1) increased surface sealing and associated 
+inundations following heavy rainfall, (2) loss of infiltration and retention areas generating higher 
+runoff and flood depth, and (3) increased exposure through the expansion of settlements into 
+flood -prone areas (Garschagen 2014, 2015, Sudmeier -Rieux et al. 2015, DiGreg orio et al. 2016). 
+In Central Viet Nam, high urbanization trends co- occur with land use changes in the upper 
+catchment of the rivers (Truong et al. 2018, Tamura et al. 2020). The consequences are dramatic 
+as the coastal area is squeezed between the mountai nous upstream area and the sea, resulting 
+in very short response times when heavy rainfall occurs. Due to changing settlement patterns, 
+housing typologies and lifestyles (from rural to urban), combined with societal transformation, local 
+vulnerabilities as well as adaptation practices are also changing and have to be considered 
+(Garschagen & Kraas 2011, Pelling 2003, Carew -Reid 2008, Bloch et al. 2012). This dynamic and 
+forward- looking perspective is not only relevant for preventive/adaptive planning, but particularly 
+in a Covid -19 context, in which the virus and subsequent economic downturn have massive 
+implications for future vulnerability and adaptive capacity. Local communities found ways to cope 
+with recurring flood events by the construction of dams (e .g. upstream of city of Hue ), flood-
+adapted housing, and channels for water drainage. Yet, as demonstrated by the severe impacts 
+of past events, and as emphasized by local stakeholders in the Definition Phase, these efforts are 
+not sufficient to prevent di sasters in the future. Instead, the development of new industrial and 
+residential areas is still given priority by local decision- makers intending to boost the economy, 
+while little incentives for risk -informed planning are provided (Garschagen 2016). Addi tionally, in 
+the city of Hue , which is the old capital and home to several of Viet Nam's most treasured national 
+1 Description of the problem 
+1.1 Regional challenges and the need for act ion 
+Typhoons and associated floods repeatedly hit Central Viet Nam, predominantly in autumn. Within 
+the last two decades, catastrophic events took place in 1997, 1998, 1999, 2007, 2008, 2009, 2013, 
+2016 and typhoon “Doksuri” in 2017. In 2016, typhoon "Sar ika" and subsequent flood events left 
+134 people dead and missing (UN 2016). In Central Viet Nam, 10- 30% of the population was 
+affected, about one million people were in urgent need for support, and economic loss accounted 
+for 460 million US$. In October 2019 and March 2020, extreme weather events resulted in four 
+fatalities, over 5,000 damaged buildings and infrastructures, considerable loss of agri -/ 
+aquacultural land and significant economic damage especially amongst small and mid- sized 
+enterprises in ci ties/towns. As a result of climatic change, it is likely that extreme weather events 
+will further intensify in magnitude and frequency (IPCC 2014, MONRE 2016, Bangalore et al. 
+2019). Coastal cities are particularly threatened by flooding – and with them the economic basis 
+and sustainability of their urban regions (Kulp et al. 2019). Climate change and flooding will also 
+intensify impacts on water quality or spreading pathogens through waterborne transmission, with 
+knock -on effects on both natural and human systems (Tran & Shaw 2007, Rui et al. 2018). The 
+situation in Central Viet Nam is characterized by rapid urbanization, particularly in small and mid-
+sized coastal cities (GSO 2016), which leads to (1) increased surface sealing and associated 
+inundations following heavy rainfall, (2) loss of infiltration and retention areas generating higher 
+runoff and flood depth, and (3) increased exposure through the expansion of settlements into 
+flood -prone areas (Garschagen 2014, 2015, Sudmeier -Rieux et al. 2015, DiGreg orio et al. 2016). 
+In Central Viet Nam, high urbanization trends co- occur with land use changes in the upper 
+catchment of the rivers (Truong et al. 2018, Tamura et al. 2020). The consequences are dramatic 
+as the coastal area is squeezed between the mountai nous upstream area and the sea, resulting 
+in very short response times when heavy rainfall occurs. Due to changing settlement patterns, 
+housing typologies and lifestyles (from rural to urban), combined with societal transformation, local 
+vulnerabilities as well as adaptation practices are also changing and have to be considered 
+(Garschagen & Kraas 2011, Pelling 2003, Carew -Reid 2008, Bloch et al. 2012). This dynamic and 
+forward- looking perspective is not only relevant for preventive/adaptive planning, but particularly 
+in a Covid -19 context, in which the virus and subsequent economic downturn have massive 
+implications for future vulnerability and adaptive capacity. Local communities found ways to cope 
+with recurring flood events by the construction of dams (e .g. upstream of city of Hue ), flood-
+adapted housing, and channels for water drainage. Yet, as demonstrated by the severe impacts 
+of past events, and as emphasized by local stakeholders in the Definition Phase, these efforts are 
+not sufficient to prevent di sasters in the future. Instead, the development of new industrial and 
+residential areas is still given priority by local decision- makers intending to boost the economy, 
+while little incentives for risk -informed planning are provided (Garschagen 2016). Addi tionally, in 
+the city of Hue , which is the old capital and home to several of Viet Nam's most treasured national 
+1 Description of the problem 
+1.1 Regional challenges and the need for act ion 
+Typhoons and associated floods repeatedly hit Central Viet Nam, predominantly in autumn. Within 
+the last two decades, catastrophic events took place in 1997, 1998, 1999, 2007, 2008, 2009, 2013, 
+2016 and typhoon “Doksuri” in 2017. In 2016, typhoon "Sar ika" and subsequent flood events left 
+134 people dead and missing (UN 2016). In Central Viet Nam, 10- 30% of the population was 
+affected, about one million people were in urgent need for support, and economic loss accounted 
+for 460 million US$. In October 2019 and March 2020, extreme weather events resulted in four 
+fatalities, over 5,000 damaged buildings and infrastructures, considerable loss of agri -/ 
+aquacultural land and significant economic damage especially amongst small and mid- sized 
+enterprises in ci ties/towns. As a result of climatic change, it is likely that extreme weather events 
+will further intensify in magnitude and frequency (IPCC 2014, MONRE 2016, Bangalore et al. 
+2019). Coastal cities are particularly threatened by flooding – and with them the economic basis 
+and sustainability of their urban regions (Kulp et al. 2019). Climate change and flooding will also 
+intensify impacts on water quality or spreading pathogens through waterborne transmission, with 
+knock -on effects on both natural and human systems (Tran & Shaw 2007, Rui et al. 2018). The 
+situation in Central Viet Nam is characterized by rapid urbanization, particularly in small and mid-
+sized coastal cities (GSO 2016), which leads to (1) increased surface sealing and associated 
+inundations following heavy rainfall, (2) loss of infiltration and retention areas generating higher 
+runoff and flood depth, and (3) increased exposure through the expansion of settlements into 
+flood -prone areas (Garschagen 2014, 2015, Sudmeier -Rieux et al. 2015, DiGreg orio et al. 2016). 
+In Central Viet Nam, high urbanization trends co- occur with land use changes in the upper 
+catchment of the rivers (Truong et al. 2018, Tamura et al. 2020). The consequences are dramatic 
+as the coastal area is squeezed between the mountai nous upstream area and the sea, resulting 
+in very short response times when heavy rainfall occurs. Due to changing settlement patterns, 
+housing typologies and lifestyles (from rural to urban), combined with societal transformation, local 
+vulnerabilities as well as adaptation practices are also changing and have to be considered 
+(Garschagen & Kraas 2011, Pelling 2003, Carew -Reid 2008, Bloch et al. 2012). This dynamic and 
+forward- looking perspective is not only relevant for preventive/adaptive planning, but particularly 
+in a Covid -19 context, in which the virus and subsequent economic downturn have massive 
+implications for future vulnerability and adaptive capacity. Local communities found ways to cope 
+with recurring flood events by the construction of dams (e .g. upstream of city of Hue ), flood-
+adapted housing, and channels for water drainage. Yet, as demonstrated by the severe impacts 
+of past events, and as emphasized by local stakeholders in the Definition Phase, these efforts are 
+not sufficient to prevent di sasters in the future. Instead, the development of new industrial and 
+residential areas is still given priority by local decision- makers intending to boost the economy, 
+while little incentives for risk -informed planning are provided (Garschagen 2016). Addi tionally, in 
+the city of Hue , which is the old capital and home to several of Viet Nam's most treasured national 
+1 Description of the problem 
+1.1 Regional challenges and the need for act ion 
+Typhoons and associated floods repeatedly hit Central Viet Nam, predominantly in autumn. Within 
+the last two decades, catastrophic events took place in 1997, 1998, 1999, 2007, 2008, 2009, 2013, 
+2016 and typhoon “Doksuri” in 2017. In 2016, typhoon "Sar ika" and subsequent flood events left 
+134 people dead and missing (UN 2016). In Central Viet Nam, 10- 30% of the population was 
+affected, about one million people were in urgent need for support, and economic loss accounted 
+for 460 million US$. In October 2019 and March 2020, extreme weather events resulted in four 
+fatalities, over 5,000 damaged buildings and infrastructures, considerable loss of agri -/ 
+aquacultural land and significant economic damage especially amongst small and mid- sized 
+enterprises in ci ties/towns. As a result of climatic change, it is likely that extreme weather events 
+will further intensify in magnitude and frequency (IPCC 2014, MONRE 2016, Bangalore et al. 
+2019). Coastal cities are particularly threatened by flooding – and with them the economic basis 
+and sustainability of their urban regions (Kulp et al. 2019). Climate change and flooding will also 
+intensify impacts on water quality or spreading pathogens through waterborne transmission, with 
+knock -on effects on both natural and human systems (Tran & Shaw 2007, Rui et al. 2018). The 
+situation in Central Viet Nam is characterized by rapid urbanization, particularly in small and mid-
+sized coastal cities (GSO 2016), which leads to (1) increased surface sealing and associated 
+inundations following heavy rainfall, (2) loss of infiltration and retention areas generating higher 
+runoff and flood depth, and (3) increased exposure through the expansion of settlements into 
+flood -prone areas (Garschagen 2014, 2015, Sudmeier -Rieux et al. 2015, DiGreg orio et al. 2016). 
+In Central Viet Nam, high urbanization trends co- occur with land use changes in the upper 
+catchment of the rivers (Truong et al. 2018, Tamura et al. 2020). The consequences are dramatic 
+as the coastal area is squeezed between the mountai nous upstream area and the sea, resulting 
+in very short response times when heavy rainfall occurs. Due to changing settlement patterns, 
+housing typologies and lifestyles (from rural to urban), combined with societal transformation, local 
+vulnerabilities as well as adaptation practices are also changing and have to be considered 
+(Garschagen & Kraas 2011, Pelling 2003, Carew -Reid 2008, Bloch et al. 2012). This dynamic and 
+forward- looking perspective is not only relevant for preventive/adaptive planning, but particularly 
+in a Covid -19 context, in which the virus and subsequent economic downturn have massive 
+implications for future vulnerability and adaptive capacity. Local communities found ways to cope 
+with recurring flood events by the construction of dams (e .g. upstream of city of Hue ), flood-
+adapted housing, and channels for water drainage. Yet, as demonstrated by the severe impacts 
+of past events, and as emphasized by local stakeholders in the Definition Phase, these efforts are 
+not sufficient to prevent di sasters in the future. Instead, the development of new industrial and 
+residential areas is still given priority by local decision- makers intending to boost the economy, 
+while little incentives for risk -informed planning are provided (Garschagen 2016). Addi tionally, in 
+the city of Hue , which is the old capital and home to several of Viet Nam's most treasured national 
+1 Description of the problem 
+1.1 Regional challenges and the need for act ion 
+Typhoons and associated floods repeatedly hit Central Viet Nam, predominantly in autumn. Within 
+the last two decades, catastrophic events took place in 1997, 1998, 1999, 2007, 2008, 2009, 2013, 
+2016 and typhoon “Doksuri” in 2017. In 2016, typhoon "Sar ika" and subsequent flood events left 
+134 people dead and missing (UN 2016). In Central Viet Nam, 10- 30% of the population was 
+affected, about one million people were in urgent need for support, and economic loss accounted 
+for 460 million US$. In October 2019 and March 2020, extreme weather events resulted in four 
+fatalities, over 5,000 damaged buildings and infrastructures, considerable loss of agri -/ 
+aquacultural land and significant economic damage especially amongst small and mid- sized 
+enterprises in ci ties/towns. As a result of climatic change, it is likely that extreme weather events 
+will further intensify in magnitude and frequency (IPCC 2014, MONRE 2016, Bangalore et al. 
+2019). Coastal cities are particularly threatened by flooding – and with them the economic basis 
+and sustainability of their urban regions (Kulp et al. 2019). Climate change and flooding will also 
+intensify impacts on water quality or spreading pathogens through waterborne transmission, with 
+knock -on effects on both natural and human systems (Tran & Shaw 2007, Rui et al. 2018). The 
+situation in Central Viet Nam is characterized by rapid urbanization, particularly in small and mid-
+sized coastal cities (GSO 2016), which leads to (1) increased surface sealing and associated 
+inundations following heavy rainfall, (2) loss of infiltration and retention areas generating higher 
+runoff and flood depth, and (3) increased exposure through the expansion of settlements into 
+flood -prone areas (Garschagen 2014, 2015, Sudmeier -Rieux et al. 2015, DiGreg orio et al. 2016). 
+In Central Viet Nam, high urbanization trends co- occur with land use changes in the upper 
+catchment of the rivers (Truong et al. 2018, Tamura et al. 2020). The consequences are dramatic 
+as the coastal area is squeezed between the mountai nous upstream area and the sea, resulting 
+in very short response times when heavy rainfall occurs. Due to changing settlement patterns, 
+housing typologies and lifestyles (from rural to urban), combined with societal transformation, local 
+vulnerabilities as well as adaptation practices are also changing and have to be considered 
+(Garschagen & Kraas 2011, Pelling 2003, Carew -Reid 2008, Bloch et al. 2012). This dynamic and 
+forward- looking perspective is not only relevant for preventive/adaptive planning, but particularly 
+in a Covid -19 context, in which the virus and subsequent economic downturn have massive 
+implications for future vulnerability and adaptive capacity. Local communities found ways to cope 
+with recurring flood events by the construction of dams (e .g. upstream of city of Hue ), flood-
+adapted housing, and channels for water drainage. Yet, as demonstrated by the severe impacts 
+of past events, and as emphasized by local stakeholders in the Definition Phase, these efforts are 
+not sufficient to prevent di sasters in the future. Instead, the development of new industrial and 
+residential areas is still given priority by local decision- makers intending to boost the economy, 
+while little incentives for risk -informed planning are provided (Garschagen 2016). Addi tionally, in 
+the city of Hue , which is the old capital and home to several of Viet Nam's most treasured national 
+1 Description of the problem 
+1.1 Regional challenges and the need for act ion 
+Typhoons and associated floods repeatedly hit Central Viet Nam, predominantly in autumn. Within 
+the last two decades, catastrophic events took place in 1997, 1998, 1999, 2007, 2008, 2009, 2013, 
+2016 and typhoon “Doksuri” in 2017. In 2016, typhoon "Sar ika" and subsequent flood events left 
+134 people dead and missing (UN 2016). In Central Viet Nam, 10- 30% of the population was 
+affected, about one million people were in urgent need for support, and economic loss accounted 
+for 460 million US$. In October 2019 and March 2020, extreme weather events resulted in four 
+fatalities, over 5,000 damaged buildings and infrastructures, considerable loss of agri -/ 
+aquacultural land and significant economic damage especially amongst small and mid- sized 
+enterprises in ci ties/towns. As a result of climatic change, it is likely that extreme weather events 
+will further intensify in magnitude and frequency (IPCC 2014, MONRE 2016, Bangalore et al. 
+2019). Coastal cities are particularly threatened by flooding – and with them the economic basis 
+and sustainability of their urban regions (Kulp et al. 2019). Climate change and flooding will also 
+intensify impacts on water quality or spreading pathogens through waterborne transmission, with 
+knock -on effects on both natural and human systems (Tran & Shaw 2007, Rui et al. 2018). The 
+situation in Central Viet Nam is characterized by rapid urbanization, particularly in small and mid-
+sized coastal cities (GSO 2016), which leads to (1) increased surface sealing and associated 
+inundations following heavy rainfall, (2) loss of infiltration and retention areas generating higher 
+runoff and flood depth, and (3) increased exposure through the expansion of settlements into 
+flood -prone areas (Garschagen 2014, 2015, Sudmeier -Rieux et al. 2015, DiGreg orio et al. 2016). 
+In Central Viet Nam, high urbanization trends co- occur with land use changes in the upper 
+catchment of the rivers (Truong et al. 2018, Tamura et al. 2020). The consequences are dramatic 
+as the coastal area is squeezed between the mountai nous upstream area and the sea, resulting 
+in very short response times when heavy rainfall occurs. Due to changing settlement patterns, 
+housing typologies and lifestyles (from rural to urban), combined with societal transformation, local 
+vulnerabilities as well as adaptation practices are also changing and have to be considered 
+(Garschagen & Kraas 2011, Pelling 2003, Carew -Reid 2008, Bloch et al. 2012). This dynamic and 
+forward- looking perspective is not only relevant for preventive/adaptive planning, but particularly 
+in a Covid -19 context, in which the virus and subsequent economic downturn have massive 
+implications for future vulnerability and adaptive capacity. Local communities found ways to cope 
+with recurring flood events by the construction of dams (e .g. upstream of city of Hue ), flood-
+adapted housing, and channels for water drainage. Yet, as demonstrated by the severe impacts 
+of past events, and as emphasized by local stakeholders in the Definition Phase, these efforts are 
+not sufficient to prevent di sasters in the future. Instead, the development of new industrial and 
+residential areas is still given priority by local decision- makers intending to boost the economy, 
+while little incentives for risk -informed planning are provided (Garschagen 2016). Addi tionally, in 
+the city of Hue , which is the old capital and home to several of Viet Nam's most treasured national 
+1 Description of the problem 
+1.1 Regional challenges and the need for act ion 
+Typhoons and associated floods repeatedly hit Central Viet Nam, predominantly in autumn. Within 
+the last two decades, catastrophic events took place in 1997, 1998, 1999, 2007, 2008, 2009, 2013, 
+2016 and typhoon “Doksuri” in 2017. In 2016, typhoon "Sar ika" and subsequent flood events left 
+134 people dead and missing (UN 2016). In Central Viet Nam, 10- 30% of the population was 
+affected, about one million people were in urgent need for support, and economic loss accounted 
+for 460 million US$. In October 2019 and March 2020, extreme weather events resulted in four 
+fatalities, over 5,000 damaged buildings and infrastructures, considerable loss of agri -/ 
+aquacultural land and significant economic damage especially amongst small and mid- sized 
+enterprises in ci ties/towns. As a result of climatic change, it is likely that extreme weather events 
+will further intensify in magnitude and frequency (IPCC 2014, MONRE 2016, Bangalore et al. 
+2019). Coastal cities are particularly threatened by flooding – and with them the economic basis 
+and sustainability of their urban regions (Kulp et al. 2019). Climate change and flooding will also 
+intensify impacts on water quality or spreading pathogens through waterborne transmission, with 
+knock -on effects on both natural and human systems (Tran & Shaw 2007, Rui et al. 2018). The 
+situation in Central Viet Nam is characterized by rapid urbanization, particularly in small and mid-
+sized coastal cities (GSO 2016), which leads to (1) increased surface sealing and associated 
+inundations following heavy rainfall, (2) loss of infiltration and retention areas generating higher 
+runoff and flood depth, and (3) increased exposure through the expansion of settlements into 
+flood -prone areas (Garschagen 2014, 2015, Sudmeier -Rieux et al. 2015, DiGreg orio et al. 2016). 
+In Central Viet Nam, high urbanization trends co- occur with land use changes in the upper 
+catchment of the rivers (Truong et al. 2018, Tamura et al. 2020). The consequences are dramatic 
+as the coastal area is squeezed between the mountai nous upstream area and the sea, resulting 
+in very short response times when heavy rainfall occurs. Due to changing settlement patterns, 
+housing typologies and lifestyles (from rural to urban), combined with societal transformation, local 
+vulnerabilities as well as adaptation practices are also changing and have to be considered 
+(Garschagen & Kraas 2011, Pelling 2003, Carew -Reid 2008, Bloch et al. 2012). This dynamic and 
+forward- looking perspective is not only relevant for preventive/adaptive planning, but particularly 
+in a Covid -19 context, in which the virus and subsequent economic downturn have massive 
+implications for future vulnerability and adaptive capacity. Local communities found ways to cope 
+with recurring flood events by the construction of dams (e .g. upstream of city of Hue ), flood-
+adapted housing, and channels for water drainage. Yet, as demonstrated by the severe impacts 
+of past events, and as emphasized by local stakeholders in the Definition Phase, these efforts are 
+not sufficient to prevent di sasters in the future. Instead, the development of new industrial and 
+residential areas is still given priority by local decision- makers intending to boost the economy, 
+while little incentives for risk -informed planning are provided (Garschagen 2016). Addi tionally, in 
+the city of Hue , which is the old capital and home to several of Viet Nam's most treasured national 
+1 Description of the problem 
+1.1 Regional challenges and the need for act ion 
+Typhoons and associated floods repeatedly hit Central Viet Nam, predominantly in autumn. Within 
+the last two decades, catastrophic events took place in 1997, 1998, 1999, 2007, 2008, 2009, 2013, 
+2016 and typhoon “Doksuri” in 2017. In 2016, typhoon "Sar ika" and subsequent flood events left 
+134 people dead and missing (UN 2016). In Central Viet Nam, 10- 30% of the population was 
+affected, about one million people were in urgent need for support, and economic loss accounted 
+for 460 million US$. In October 2019 and March 2020, extreme weather events resulted in four 
+fatalities, over 5,000 damaged buildings and infrastructures, considerable loss of agri -/ 
+aquacultural land and significant economic damage especially amongst small and mid- sized 
+enterprises in ci ties/towns. As a result of climatic change, it is likely that extreme weather events 
+will further intensify in magnitude and frequency (IPCC 2014, MONRE 2016, Bangalore et al. 
+2019). Coastal cities are particularly threatened by flooding – and with them the economic basis 
+and sustainability of their urban regions (Kulp et al. 2019). Climate change and flooding will also 
+intensify impacts on water quality or spreading pathogens through waterborne transmission, with 
+knock -on effects on both natural and human systems (Tran & Shaw 2007, Rui et al. 2018). The 
+situation in Central Viet Nam is characterized by rapid urbanization, particularly in small and mid-
+sized coastal cities (GSO 2016), which leads to (1) increased surface sealing and associated 
+inundations following heavy rainfall, (2) loss of infiltration and retention areas generating higher 
+runoff and flood depth, and (3) increased exposure through the expansion of settlements into 
+flood -prone areas (Garschagen 2014, 2015, Sudmeier -Rieux et al. 2015, DiGreg orio et al. 2016). 
+In Central Viet Nam, high urbanization trends co- occur with land use changes in the upper 
+catchment of the rivers (Truong et al. 2018, Tamura et al. 2020). The consequences are dramatic 
+as the coastal area is squeezed between the mountai nous upstream area and the sea, resulting 
+in very short response times when heavy rainfall occurs. Due to changing settlement patterns, 
+housing typologies and lifestyles (from rural to urban), combined with societal transformation, local 
+vulnerabilities as well as adaptation practices are also changing and have to be considered 
+(Garschagen & Kraas 2011, Pelling 2003, Carew -Reid 2008, Bloch et al. 2012). This dynamic and 
+forward- looking perspective is not only relevant for preventive/adaptive planning, but particularly 
+in a Covid -19 context, in which the virus and subsequent economic downturn have massive 
+implications for future vulnerability and adaptive capacity. Local communities found ways to cope 
+with recurring flood events by the construction of dams (e .g. upstream of city of Hue ), flood-
+adapted housing, and channels for water drainage. Yet, as demonstrated by the severe impacts 
+of past events, and as emphasized by local stakeholders in the Definition Phase, these efforts are 
+not sufficient to prevent di sasters in the future. Instead, the development of new industrial and 
+residential areas is still given priority by local decision- makers intending to boost the economy, 
+while little incentives for risk -informed planning are provided (Garschagen 2016). Addi tionally, in 
+the city of Hue , which is the old capital and home to several of Viet Nam's most treasured national 
+1 Description of the problem 
+1.1 Regional challenges and the need for act ion 
+Typhoons and associated floods repeatedly hit Central Viet Nam, predominantly in autumn. Within 
+the last two decades, catastrophic events took place in 1997, 1998, 1999, 2007, 2008, 2009, 2013, 
+2016 and typhoon “Doksuri” in 2017. In 2016, typhoon "Sar ika" and subsequent flood events left 
+134 people dead and missing (UN 2016). In Central Viet Nam, 10- 30% of the population was 
+affected, about one million people were in urgent need for support, and economic loss accounted 
+for 460 million US$. In October 2019 and March 2020, extreme weather events resulted in four 
+fatalities, over 5,000 damaged buildings and infrastructures, considerable loss of agri -/ 
+aquacultural land and significant economic damage especially amongst small and mid- sized 
+enterprises in ci ties/towns. As a result of climatic change, it is likely that extreme weather events 
+will further intensify in magnitude and frequency (IPCC 2014, MONRE 2016, Bangalore et al. 
+2019). Coastal cities are particularly threatened by flooding – and with them the economic basis 
+and sustainability of their urban regions (Kulp et al. 2019). Climate change and flooding will also 
+intensify impacts on water quality or spreading pathogens through waterborne transmission, with 
+knock -on effects on both natural and human systems (Tran & Shaw 2007, Rui et al. 2018). The 
+situation in Central Viet Nam is characterized by rapid urbanization, particularly in small and mid-
+sized coastal cities (GSO 2016), which leads to (1) increased surface sealing and associated 
+inundations following heavy rainfall, (2) loss of infiltration and retention areas generating higher 
+runoff and flood depth, and (3) increased exposure through the expansion of settlements into 
+flood -prone areas (Garschagen 2014, 2015, Sudmeier -Rieux et al. 2015, DiGreg orio et al. 2016). 
+In Central Viet Nam, high urbanization trends co- occur with land use changes in the upper 
+catchment of the rivers (Truong et al. 2018, Tamura et al. 2020). The consequences are dramatic 
+as the coastal area is squeezed between the mountai nous upstream area and the sea, resulting 
+in very short response times when heavy rainfall occurs. Due to changing settlement patterns, 
+housing typologies and lifestyles (from rural to urban), combined with societal transformation, local 
+vulnerabilities as well as adaptation practices are also changing and have to be considered 
+(Garschagen & Kraas 2011, Pelling 2003, Carew -Reid 2008, Bloch et al. 2012). This dynamic and 
+forward- looking perspective is not only relevant for preventive/adaptive planning, but particularly 
+in a Covid -19 context, in which the virus and subsequent economic downturn have massive 
+implications for future vulnerability and adaptive capacity. Local communities found ways to cope 
+with recurring flood events by the construction of dams (e .g. upstream of city of Hue ), flood-
+adapted housing, and channels for water drainage. Yet, as demonstrated by the severe impacts 
+of past events, and as emphasized by local stakeholders in the Definition Phase, these efforts are 
+not sufficient to prevent di sasters in the future. Instead, the development of new industrial and 
+residential areas is still given priority by local decision- makers intending to boost the economy, 
+while little incentives for risk -informed planning are provided (Garschagen 2016). Addi tionally, in 
+the city of Hue , which is the old capital and home to several of Viet Nam's most treasured national 
+1 Description of the problem 
+1.1 Regional challenges and the need for act ion 
+Typhoons and associated floods repeatedly hit Central Viet Nam, predominantly in autumn. Within 
+the last two decades, catastrophic events took place in 1997, 1998, 1999, 2007, 2008, 2009, 2013, 
+2016 and typhoon “Doksuri” in 2017. In 2016, typhoon "Sar ika" and subsequent flood events left 
+134 people dead and missing (UN 2016). In Central Viet Nam, 10- 30% of the population was 
+affected, about one million people were in urgent need for support, and economic loss accounted 
+for 460 million US$. In October 2019 and March 2020, extreme weather events resulted in four 
+fatalities, over 5,000 damaged buildings and infrastructures, considerable loss of agri -/ 
+aquacultural land and significant economic damage especially amongst small and mid- sized 
+enterprises in ci ties/towns. As a result of climatic change, it is likely that extreme weather events 
+will further intensify in magnitude and frequency (IPCC 2014, MONRE 2016, Bangalore et al. 
+2019). Coastal cities are particularly threatened by flooding – and with them the economic basis 
+and sustainability of their urban regions (Kulp et al. 2019). Climate change and flooding will also 
+intensify impacts on water quality or spreading pathogens through waterborne transmission, with 
+knock -on effects on both natural and human systems (Tran & Shaw 2007, Rui et al. 2018). The 
+situation in Central Viet Nam is characterized by rapid urbanization, particularly in small and mid-
+sized coastal cities (GSO 2016), which leads to (1) increased surface sealing and associated 
+inundations following heavy rainfall, (2) loss of infiltration and retention areas generating higher 
+runoff and flood depth, and (3) increased exposure through the expansion of settlements into 
+flood -prone areas (Garschagen 2014, 2015, Sudmeier -Rieux et al. 2015, DiGreg orio et al. 2016). 
+In Central Viet Nam, high urbanization trends co- occur with land use changes in the upper 
+catchment of the rivers (Truong et al. 2018, Tamura et al. 2020). The consequences are dramatic 
+as the coastal area is squeezed between the mountai nous upstream area and the sea, resulting 
+in very short response times when heavy rainfall occurs. Due to changing settlement patterns, 
+housing typologies and lifestyles (from rural to urban), combined with societal transformation, local 
+vulnerabilities as well as adaptation practices are also changing and have to be considered 
+(Garschagen & Kraas 2011, Pelling 2003, Carew -Reid 2008, Bloch et al. 2012). This dynamic and 
+forward- looking perspective is not only relevant for preventive/adaptive planning, but particularly 
+in a Covid -19 context, in which the virus and subsequent economic downturn have massive 
+implications for future vulnerability and adaptive capacity. Local communities found ways to cope 
+with recurring flood events by the construction of dams (e .g. upstream of city of Hue ), flood-
+adapted housing, and channels for water drainage. Yet, as demonstrated by the severe impacts 
+of past events, and as emphasized by local stakeholders in the Definition Phase, these efforts are 
+not sufficient to prevent di sasters in the future. Instead, the development of new industrial and 
+residential areas is still given priority by local decision- makers intending to boost the economy, 
+while little incentives for risk -informed planning are provided (Garschagen 2016). Addi tionally, in 
+the city of Hue , which is the old capital and home to several of Viet Nam's most treasured national 
+1 Description of the problem 
+1.1 Regional challenges and the need for act ion 
+Typhoons and associated floods repeatedly hit Central Viet Nam, predominantly in autumn. Within 
+the last two decades, catastrophic events took place in 1997, 1998, 1999, 2007, 2008, 2009, 2013, 
+2016 and typhoon “Doksuri” in 2017. In 2016, typhoon "Sar ika" and subsequent flood events left 
+134 people dead and missing (UN 2016). In Central Viet Nam, 10- 30% of the population was 
+affected, about one million people were in urgent need for support, and economic loss accounted 
+for 460 million US$. In October 2019 and March 2020, extreme weather events resulted in four 
+fatalities, over 5,000 damaged buildings and infrastructures, considerable loss of agri -/ 
+aquacultural land and significant economic damage especially amongst small and mid- sized 
+enterprises in ci ties/towns. As a result of climatic change, it is likely that extreme weather events 
+will further intensify in magnitude and frequency (IPCC 2014, MONRE 2016, Bangalore et al. 
+2019). Coastal cities are particularly threatened by flooding – and with them the economic basis 
+and sustainability of their urban regions (Kulp et al. 2019). Climate change and flooding will also 
+intensify impacts on water quality or spreading pathogens through waterborne transmission, with 
+knock -on effects on both natural and human systems (Tran & Shaw 2007, Rui et al. 2018). The 
+situation in Central Viet Nam is characterized by rapid urbanization, particularly in small and mid-
+sized coastal cities (GSO 2016), which leads to (1) increased surface sealing and associated 
+inundations following heavy rainfall, (2) loss of infiltration and retention areas generating higher 
+runoff and flood depth, and (3) increased exposure through the expansion of settlements into 
+flood -prone areas (Garschagen 2014, 2015, Sudmeier -Rieux et al. 2015, DiGreg orio et al. 2016). 
+In Central Viet Nam, high urbanization trends co- occur with land use changes in the upper 
+catchment of the rivers (Truong et al. 2018, Tamura et al. 2020). The consequences are dramatic 
+as the coastal area is squeezed between the mountai nous upstream area and the sea, resulting 
+in very short response times when heavy rainfall occurs. Due to changing settlement patterns, 
+housing typologies and lifestyles (from rural to urban), combined with societal transformation, local 
+vulnerabilities as well as adaptation practices are also changing and have to be considered 
+(Garschagen & Kraas 2011, Pelling 2003, Carew -Reid 2008, Bloch et al. 2012). This dynamic and 
+forward- looking perspective is not only relevant for preventive/adaptive planning, but particularly 
+in a Covid -19 context, in which the virus and subsequent economic downturn have massive 
+implications for future vulnerability and adaptive capacity. Local communities found ways to cope 
+with recurring flood events by the construction of dams (e .g. upstream of city of Hue ), flood-
+adapted housing, and channels for water drainage. Yet, as demonstrated by the severe impacts 
+of past events, and as emphasized by local stakeholders in the Definition Phase, these efforts are 
+not sufficient to prevent di sasters in the future. Instead, the development of new industrial and 
+residential areas is still given priority by local decision- makers intending to boost the economy, 
+while little incentives for risk -informed planning are provided (Garschagen 2016). Addi tionally, in 
+the city of Hue , which is the old capital and home to several of Viet Nam's most treasured national 
+1 Description of the problem 
+1.1 Regional challenges and the need for act ion 
+Typhoons and associated floods repeatedly hit Central Viet Nam, predominantly in autumn. Within 
+the last two decades, catastrophic events took place in 1997, 1998, 1999, 2007, 2008, 2009, 2013, 
+2016 and typhoon “Doksuri” in 2017. In 2016, typhoon "Sar ika" and subsequent flood events left 
+134 people dead and missing (UN 2016). In Central Viet Nam, 10- 30% of the population was 
+affected, about one million people were in urgent need for support, and economic loss accounted 
+for 460 million US$. In October 2019 and March 2020, extreme weather events resulted in four 
+fatalities, over 5,000 damaged buildings and infrastructures, considerable loss of agri -/ 
+aquacultural land and significant economic damage especially amongst small and mid- sized 
+enterprises in ci ties/towns. As a result of climatic change, it is likely that extreme weather events 
+will further intensify in magnitude and frequency (IPCC 2014, MONRE 2016, Bangalore et al. 
+2019). Coastal cities are particularly threatened by flooding – and with them the economic basis 
+and sustainability of their urban regions (Kulp et al. 2019). Climate change and flooding will also 
+intensify impacts on water quality or spreading pathogens through waterborne transmission, with 
+knock -on effects on both natural and human systems (Tran & Shaw 2007, Rui et al. 2018). The 
+situation in Central Viet Nam is characterized by rapid urbanization, particularly in small and mid-
+sized coastal cities (GSO 2016), which leads to (1) increased surface sealing and associated 
+inundations following heavy rainfall, (2) loss of infiltration and retention areas generating higher 
+runoff and flood depth, and (3) increased exposure through the expansion of settlements into 
+flood -prone areas (Garschagen 2014, 2015, Sudmeier -Rieux et al. 2015, DiGreg orio et al. 2016). 
+In Central Viet Nam, high urbanization trends co- occur with land use changes in the upper 
+catchment of the rivers (Truong et al. 2018, Tamura et al. 2020). The consequences are dramatic 
+as the coastal area is squeezed between the mountai nous upstream area and the sea, resulting 
+in very short response times when heavy rainfall occurs. Due to changing settlement patterns, 
+housing typologies and lifestyles (from rural to urban), combined with societal transformation, local 
+vulnerabilities as well as adaptation practices are also changing and have to be considered 
+(Garschagen & Kraas 2011, Pelling 2003, Carew -Reid 2008, Bloch et al. 2012). This dynamic and 
+forward- looking perspective is not only relevant for preventive/adaptive planning, but particularly 
+in a Covid -19 context, in which the virus and subsequent economic downturn have massive 
+implications for future vulnerability and adaptive capacity. Local communities found ways to cope 
+with recurring flood events by the construction of dams (e .g. upstream of city of Hue ), flood-
+adapted housing, and channels for water drainage. Yet, as demonstrated by the severe impacts 
+of past events, and as emphasized by local stakeholders in the Definition Phase, these efforts are 
+not sufficient to prevent di sasters in the future. Instead, the development of new industrial and 
+residential areas is still given priority by local decision- makers intending to boost the economy, 
+while little incentives for risk -informed planning are provided (Garschagen 2016). Addi tionally, in 
+the city of Hue , which is the old capital and home to several of Viet Nam's most treasured national 
+1 Description of the problem 
+1.1 Regional challenges and the need for act ion 
+Typhoons and associated floods repeatedly hit Central Viet Nam, predominantly in autumn. Within 
+the last two decades, catastrophic events took place in 1997, 1998, 1999, 2007, 2008, 2009, 2013, 
+2016 and typhoon “Doksuri” in 2017. In 2016, typhoon "Sar ika" and subsequent flood events left 
+134 people dead and missing (UN 2016). In Central Viet Nam, 10- 30% of the population was 
+affected, about one million people were in urgent need for support, and economic loss accounted 
+for 460 million US$. In October 2019 and March 2020, extreme weather events resulted in four 
+fatalities, over 5,000 damaged buildings and infrastructures, considerable loss of agri -/ 
+aquacultural land and significant economic damage especially amongst small and mid- sized 
+enterprises in ci ties/towns. As a result of climatic change, it is likely that extreme weather events 
+will further intensify in magnitude and frequency (IPCC 2014, MONRE 2016, Bangalore et al. 
+2019). Coastal cities are particularly threatened by flooding – and with them the economic basis 
+and sustainability of their urban regions (Kulp et al. 2019). Climate change and flooding will also 
+intensify impacts on water quality or spreading pathogens through waterborne transmission, with 
+knock -on effects on both natural and human systems (Tran & Shaw 2007, Rui et al. 2018). The 
+situation in Central Viet Nam is characterized by rapid urbanization, particularly in small and mid-
+sized coastal cities (GSO 2016), which leads to (1) increased surface sealing and associated 
+inundations following heavy rainfall, (2) loss of infiltration and retention areas generating higher 
+runoff and flood depth, and (3) increased exposure through the expansion of settlements into 
+flood -prone areas (Garschagen 2014, 2015, Sudmeier -Rieux et al. 2015, DiGreg orio et al. 2016). 
+In Central Viet Nam, high urbanization trends co- occur with land use changes in the upper 
+catchment of the rivers (Truong et al. 2018, Tamura et al. 2020). The consequences are dramatic 
+as the coastal area is squeezed between the mountai nous upstream area and the sea, resulting 
+in very short response times when heavy rainfall occurs. Due to changing settlement patterns, 
+housing typologies and lifestyles (from rural to urban), combined with societal transformation, local 
+vulnerabilities as well as adaptation practices are also changing and have to be considered 
+(Garschagen & Kraas 2011, Pelling 2003, Carew -Reid 2008, Bloch et al. 2012). This dynamic and 
+forward- looking perspective is not only relevant for preventive/adaptive planning, but particularly 
+in a Covid -19 context, in which the virus and subsequent economic downturn have massive 
+implications for future vulnerability and adaptive capacity. Local communities found ways to cope 
+with recurring flood events by the construction of dams (e .g. upstream of city of Hue ), flood-
+adapted housing, and channels for water drainage. Yet, as demonstrated by the severe impacts 
+of past events, and as emphasized by local stakeholders in the Definition Phase, these efforts are 
+not sufficient to prevent di sasters in the future. Instead, the development of new industrial and 
+residential areas is still given priority by local decision- makers intending to boost the economy, 
+while little incentives for risk -informed planning are provided (Garschagen 2016). Addi tionally, in 
+the city of Hue , which is the old capital and home to several of Viet Nam's most treasured national 
